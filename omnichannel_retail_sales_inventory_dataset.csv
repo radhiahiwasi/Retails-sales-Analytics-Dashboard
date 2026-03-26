@@ -1,0 +1,1001 @@
+﻿Order_ID,Order_Date,Channel,Store_Location,Product_ID,Product_Name,Category,Unit_Price,Quantity_Sold,Sales_Amount,Inventory_Level,Reorder_Level,Customer_Segment,Payment_Method,Region
+ORD0001,2025-07-06,Online,Pune,P1003,Headphones,Electronics,3000,5,15000,48,27,Home Office,Cash,East
+ORD0002,2025-12-31,Online,Pune,P1001,Laptop,Electronics,60000,2,120000,136,41,Consumer,UPI,West
+ORD0003,2025-07-13,Online,Bangalore,P1009,Watch,Accessories,5000,2,10000,105,40,Home Office,Cash,South
+ORD0004,2025-11-15,Online,Hyderabad,P1004,Office Chair,Furniture,7000,2,14000,217,44,Corporate,Debit Card,West
+ORD0005,2025-06-29,Online,Hyderabad,P1008,Sneakers,Footwear,3500,3,10500,70,13,Consumer,Debit Card,West
+ORD0006,2025-08-17,Store,Pune,P1008,Sneakers,Footwear,3500,3,10500,110,36,Home Office,Debit Card,West
+ORD0007,2025-06-27,Marketplace,Pune,P1004,Office Chair,Furniture,7000,4,28000,458,19,Corporate,Credit Card,South
+ORD0008,2025-02-11,Online,Hyderabad,P1008,Sneakers,Footwear,3500,5,17500,238,21,Consumer,UPI,West
+ORD0009,2025-01-29,Marketplace,Hyderabad,P1002,Smartphone,Electronics,30000,5,150000,243,22,Corporate,Net Banking,North
+ORD0010,2025-04-22,Store,Delhi,P1007,Jeans,Clothing,2000,1,2000,257,18,Consumer,Credit Card,South
+ORD0011,2025-09-14,Store,Bangalore,P1001,Laptop,Electronics,60000,1,60000,438,37,Home Office,Debit Card,West
+ORD0012,2025-06-27,Mobile App,Bangalore,P1010,Backpack,Accessories,1500,2,3000,97,29,Consumer,Net Banking,West
+ORD0013,2025-10-18,Marketplace,Mumbai,P1005,Desk,Furniture,12000,4,48000,228,40,Home Office,Debit Card,West
+ORD0014,2025-09-17,Marketplace,Delhi,P1006,T-Shirt,Clothing,800,2,1600,413,10,Corporate,UPI,South
+ORD0015,2025-07-12,Marketplace,Delhi,P1003,Headphones,Electronics,3000,2,6000,344,11,Home Office,Credit Card,North
+ORD0016,2025-02-23,Online,Pune,P1002,Smartphone,Electronics,30000,4,120000,192,23,Consumer,Net Banking,East
+ORD0017,2025-02-25,Mobile App,Mumbai,P1004,Office Chair,Furniture,7000,1,7000,106,24,Consumer,Debit Card,East
+ORD0018,2025-09-18,Marketplace,Mumbai,P1002,Smartphone,Electronics,30000,3,90000,291,44,Consumer,Credit Card,East
+ORD0019,2025-10-17,Mobile App,Pune,P1002,Smartphone,Electronics,30000,4,120000,131,15,Home Office,Debit Card,North
+ORD0020,2025-11-23,Online,Bangalore,P1004,Office Chair,Furniture,7000,4,28000,244,18,Home Office,Credit Card,South
+ORD0021,2025-01-27,Mobile App,Pune,P1003,Headphones,Electronics,3000,4,12000,206,30,Corporate,UPI,North
+ORD0022,2025-12-14,Store,Bangalore,P1002,Smartphone,Electronics,30000,3,90000,261,17,Corporate,Credit Card,North
+ORD0023,2025-03-25,Mobile App,Mumbai,P1002,Smartphone,Electronics,30000,5,150000,215,42,Consumer,Credit Card,South
+ORD0024,2025-10-25,Mobile App,Hyderabad,P1003,Headphones,Electronics,3000,5,15000,30,40,Home Office,Cash,South
+ORD0025,2025-12-22,Marketplace,Bangalore,P1003,Headphones,Electronics,3000,1,3000,436,46,Home Office,Credit Card,West
+ORD0026,2025-02-17,Online,Hyderabad,P1006,T-Shirt,Clothing,800,4,3200,241,42,Home Office,Credit Card,West
+ORD0027,2025-07-12,Marketplace,Hyderabad,P1003,Headphones,Electronics,3000,3,9000,485,37,Corporate,Debit Card,East
+ORD0028,2025-08-12,Store,Pune,P1005,Desk,Furniture,12000,5,60000,314,49,Consumer,Credit Card,West
+ORD0029,2025-02-05,Marketplace,Mumbai,P1004,Office Chair,Furniture,7000,1,7000,340,16,Home Office,Credit Card,North
+ORD0030,2025-05-21,Online,Delhi,P1005,Desk,Furniture,12000,5,60000,67,25,Consumer,Cash,South
+ORD0031,2025-11-24,Store,Hyderabad,P1001,Laptop,Electronics,60000,4,240000,447,13,Home Office,UPI,North
+ORD0032,2025-11-25,Mobile App,Hyderabad,P1002,Smartphone,Electronics,30000,5,150000,171,19,Home Office,Credit Card,North
+ORD0033,2025-12-25,Mobile App,Bangalore,P1003,Headphones,Electronics,3000,5,15000,95,45,Home Office,Cash,East
+ORD0034,2025-06-16,Mobile App,Mumbai,P1007,Jeans,Clothing,2000,1,2000,360,46,Consumer,Net Banking,West
+ORD0035,2025-03-29,Marketplace,Mumbai,P1009,Watch,Accessories,5000,1,5000,484,30,Consumer,Cash,North
+ORD0036,2025-03-06,Mobile App,Hyderabad,P1001,Laptop,Electronics,60000,5,300000,321,38,Consumer,Cash,East
+ORD0037,2025-07-13,Marketplace,Pune,P1003,Headphones,Electronics,3000,4,12000,260,50,Consumer,Cash,North
+ORD0038,2025-08-13,Store,Delhi,P1005,Desk,Furniture,12000,3,36000,267,21,Consumer,Net Banking,South
+ORD0039,2025-08-29,Mobile App,Delhi,P1002,Smartphone,Electronics,30000,2,60000,360,11,Corporate,Debit Card,South
+ORD0040,2025-12-26,Mobile App,Hyderabad,P1008,Sneakers,Footwear,3500,1,3500,408,19,Home Office,Credit Card,South
+ORD0041,2025-04-17,Marketplace,Pune,P1004,Office Chair,Furniture,7000,1,7000,196,45,Home Office,UPI,West
+ORD0042,2025-04-23,Marketplace,Delhi,P1002,Smartphone,Electronics,30000,2,60000,321,45,Corporate,Debit Card,East
+ORD0043,2025-11-23,Store,Pune,P1006,T-Shirt,Clothing,800,3,2400,157,14,Consumer,Debit Card,North
+ORD0044,2025-02-14,Online,Delhi,P1001,Laptop,Electronics,60000,3,180000,407,45,Consumer,Credit Card,South
+ORD0045,2025-08-17,Store,Pune,P1003,Headphones,Electronics,3000,4,12000,326,13,Corporate,Credit Card,West
+ORD0046,2025-12-06,Online,Hyderabad,P1002,Smartphone,Electronics,30000,3,90000,65,11,Consumer,UPI,North
+ORD0047,2025-03-14,Store,Delhi,P1006,T-Shirt,Clothing,800,1,800,57,32,Home Office,Credit Card,South
+ORD0048,2025-01-21,Marketplace,Delhi,P1009,Watch,Accessories,5000,4,20000,479,39,Home Office,Cash,East
+ORD0049,2025-03-29,Mobile App,Hyderabad,P1002,Smartphone,Electronics,30000,5,150000,249,29,Home Office,Debit Card,West
+ORD0050,2025-03-18,Online,Pune,P1003,Headphones,Electronics,3000,3,9000,32,46,Corporate,Credit Card,West
+ORD0051,2025-02-13,Store,Bangalore,P1004,Office Chair,Furniture,7000,2,14000,55,37,Corporate,Credit Card,West
+ORD0052,2025-08-16,Marketplace,Bangalore,P1006,T-Shirt,Clothing,800,1,800,144,29,Consumer,Debit Card,East
+ORD0053,2025-07-12,Store,Bangalore,P1007,Jeans,Clothing,2000,2,4000,381,46,Corporate,Net Banking,North
+ORD0054,2025-05-11,Mobile App,Hyderabad,P1010,Backpack,Accessories,1500,4,6000,494,49,Consumer,Credit Card,South
+ORD0055,2025-08-24,Store,Bangalore,P1001,Laptop,Electronics,60000,3,180000,122,33,Consumer,Net Banking,West
+ORD0056,2025-01-21,Mobile App,Delhi,P1004,Office Chair,Furniture,7000,1,7000,342,50,Consumer,UPI,East
+ORD0057,2025-08-12,Mobile App,Pune,P1001,Laptop,Electronics,60000,5,300000,260,47,Corporate,UPI,North
+ORD0058,2025-05-03,Mobile App,Delhi,P1010,Backpack,Accessories,1500,3,4500,243,18,Home Office,Debit Card,North
+ORD0059,2025-08-10,Marketplace,Mumbai,P1004,Office Chair,Furniture,7000,1,7000,29,38,Home Office,UPI,East
+ORD0060,2025-08-21,Online,Delhi,P1009,Watch,Accessories,5000,2,10000,427,22,Home Office,Debit Card,West
+ORD0061,2025-07-18,Marketplace,Pune,P1005,Desk,Furniture,12000,1,12000,395,47,Consumer,Debit Card,North
+ORD0062,2025-07-03,Store,Bangalore,P1003,Headphones,Electronics,3000,2,6000,283,26,Consumer,Debit Card,South
+ORD0063,2025-10-09,Store,Delhi,P1006,T-Shirt,Clothing,800,5,4000,362,44,Consumer,UPI,South
+ORD0064,2025-06-30,Online,Pune,P1005,Desk,Furniture,12000,2,24000,467,19,Corporate,UPI,North
+ORD0065,2025-10-06,Online,Delhi,P1009,Watch,Accessories,5000,1,5000,498,25,Consumer,Net Banking,West
+ORD0066,2025-10-09,Marketplace,Mumbai,P1010,Backpack,Accessories,1500,4,6000,441,20,Corporate,UPI,East
+ORD0067,2025-01-15,Marketplace,Hyderabad,P1004,Office Chair,Furniture,7000,3,21000,378,14,Home Office,Credit Card,East
+ORD0068,2025-05-29,Mobile App,Delhi,P1006,T-Shirt,Clothing,800,5,4000,405,17,Consumer,Debit Card,North
+ORD0069,2025-08-05,Online,Delhi,P1003,Headphones,Electronics,3000,3,9000,429,22,Corporate,UPI,East
+ORD0070,2025-09-26,Store,Bangalore,P1009,Watch,Accessories,5000,3,15000,35,12,Corporate,UPI,East
+ORD0071,2025-05-06,Online,Mumbai,P1002,Smartphone,Electronics,30000,4,120000,306,27,Corporate,Net Banking,West
+ORD0072,2025-12-20,Marketplace,Mumbai,P1006,T-Shirt,Clothing,800,5,4000,112,50,Consumer,Cash,East
+ORD0073,2025-04-10,Store,Bangalore,P1009,Watch,Accessories,5000,4,20000,245,22,Consumer,UPI,North
+ORD0074,2025-11-18,Marketplace,Mumbai,P1008,Sneakers,Footwear,3500,5,17500,214,12,Consumer,Credit Card,West
+ORD0075,2025-12-28,Marketplace,Pune,P1010,Backpack,Accessories,1500,3,4500,228,47,Corporate,Net Banking,East
+ORD0076,2025-05-22,Marketplace,Pune,P1004,Office Chair,Furniture,7000,4,28000,76,29,Consumer,Credit Card,South
+ORD0077,2025-12-13,Marketplace,Pune,P1004,Office Chair,Furniture,7000,2,14000,430,36,Corporate,Debit Card,East
+ORD0078,2025-09-21,Online,Mumbai,P1003,Headphones,Electronics,3000,5,15000,164,13,Consumer,Net Banking,South
+ORD0079,2025-03-08,Mobile App,Mumbai,P1006,T-Shirt,Clothing,800,3,2400,436,28,Corporate,Credit Card,North
+ORD0080,2025-09-22,Online,Delhi,P1009,Watch,Accessories,5000,2,10000,363,15,Corporate,Net Banking,South
+ORD0081,2025-11-03,Online,Pune,P1005,Desk,Furniture,12000,1,12000,128,15,Consumer,Credit Card,North
+ORD0082,2025-11-15,Online,Mumbai,P1002,Smartphone,Electronics,30000,4,120000,494,25,Home Office,Credit Card,South
+ORD0083,2025-06-29,Mobile App,Hyderabad,P1002,Smartphone,Electronics,30000,3,90000,215,49,Corporate,Debit Card,North
+ORD0084,2025-07-19,Store,Pune,P1003,Headphones,Electronics,3000,3,9000,345,48,Home Office,Debit Card,North
+ORD0085,2025-08-02,Marketplace,Pune,P1003,Headphones,Electronics,3000,1,3000,328,32,Home Office,UPI,South
+ORD0086,2025-05-22,Mobile App,Mumbai,P1005,Desk,Furniture,12000,2,24000,237,10,Corporate,Debit Card,West
+ORD0087,2025-12-05,Mobile App,Mumbai,P1008,Sneakers,Footwear,3500,5,17500,271,28,Corporate,Credit Card,West
+ORD0088,2025-06-03,Store,Mumbai,P1008,Sneakers,Footwear,3500,2,7000,221,10,Home Office,Cash,South
+ORD0089,2025-12-21,Mobile App,Delhi,P1006,T-Shirt,Clothing,800,3,2400,441,23,Corporate,Debit Card,West
+ORD0090,2025-06-04,Marketplace,Delhi,P1008,Sneakers,Footwear,3500,1,3500,273,41,Corporate,Net Banking,North
+ORD0091,2025-06-09,Mobile App,Hyderabad,P1007,Jeans,Clothing,2000,5,10000,299,38,Consumer,UPI,West
+ORD0092,2025-06-09,Mobile App,Pune,P1006,T-Shirt,Clothing,800,5,4000,36,48,Home Office,Cash,North
+ORD0093,2025-02-17,Marketplace,Hyderabad,P1008,Sneakers,Footwear,3500,2,7000,330,25,Home Office,UPI,South
+ORD0094,2025-08-18,Mobile App,Pune,P1004,Office Chair,Furniture,7000,5,35000,180,50,Home Office,Debit Card,East
+ORD0095,2025-04-13,Store,Hyderabad,P1006,T-Shirt,Clothing,800,4,3200,260,48,Corporate,UPI,South
+ORD0096,2025-03-07,Store,Bangalore,P1004,Office Chair,Furniture,7000,1,7000,129,37,Corporate,Debit Card,East
+ORD0097,2025-01-16,Mobile App,Delhi,P1007,Jeans,Clothing,2000,1,2000,25,14,Home Office,Credit Card,South
+ORD0098,2025-01-20,Online,Bangalore,P1002,Smartphone,Electronics,30000,1,30000,418,32,Corporate,Debit Card,West
+ORD0099,2025-10-19,Store,Hyderabad,P1002,Smartphone,Electronics,30000,1,30000,408,40,Home Office,Net Banking,East
+ORD0100,2025-09-10,Mobile App,Delhi,P1007,Jeans,Clothing,2000,5,10000,233,19,Corporate,Credit Card,South
+ORD0101,2025-03-27,Mobile App,Delhi,P1002,Smartphone,Electronics,30000,3,90000,86,22,Consumer,Net Banking,North
+ORD0102,2025-03-05,Online,Pune,P1001,Laptop,Electronics,60000,3,180000,405,12,Consumer,Net Banking,South
+ORD0103,2025-02-26,Marketplace,Delhi,P1006,T-Shirt,Clothing,800,3,2400,77,22,Corporate,Cash,South
+ORD0104,2025-01-15,Online,Mumbai,P1001,Laptop,Electronics,60000,3,180000,473,40,Corporate,Debit Card,South
+ORD0105,2025-11-16,Marketplace,Hyderabad,P1007,Jeans,Clothing,2000,3,6000,304,40,Corporate,Net Banking,East
+ORD0106,2025-02-05,Marketplace,Mumbai,P1010,Backpack,Accessories,1500,5,7500,178,11,Home Office,Credit Card,West
+ORD0107,2025-05-07,Mobile App,Mumbai,P1002,Smartphone,Electronics,30000,2,60000,150,44,Corporate,Cash,West
+ORD0108,2025-06-06,Marketplace,Delhi,P1004,Office Chair,Furniture,7000,4,28000,459,16,Corporate,Debit Card,East
+ORD0109,2025-08-10,Online,Hyderabad,P1008,Sneakers,Footwear,3500,1,3500,252,48,Consumer,Credit Card,North
+ORD0110,2025-04-23,Online,Delhi,P1005,Desk,Furniture,12000,2,24000,425,21,Consumer,Debit Card,East
+ORD0111,2025-04-13,Marketplace,Pune,P1009,Watch,Accessories,5000,5,25000,52,35,Consumer,Net Banking,South
+ORD0112,2025-11-13,Store,Delhi,P1008,Sneakers,Footwear,3500,4,14000,328,14,Corporate,UPI,East
+ORD0113,2025-03-05,Store,Hyderabad,P1006,T-Shirt,Clothing,800,2,1600,333,29,Consumer,UPI,West
+ORD0114,2025-07-21,Mobile App,Mumbai,P1010,Backpack,Accessories,1500,5,7500,108,30,Corporate,UPI,East
+ORD0115,2025-02-17,Store,Pune,P1005,Desk,Furniture,12000,4,48000,253,30,Home Office,Cash,West
+ORD0116,2025-07-23,Mobile App,Bangalore,P1009,Watch,Accessories,5000,3,15000,99,34,Home Office,Net Banking,East
+ORD0117,2025-05-11,Store,Mumbai,P1007,Jeans,Clothing,2000,1,2000,236,20,Consumer,Debit Card,West
+ORD0118,2025-05-15,Online,Pune,P1007,Jeans,Clothing,2000,2,4000,413,26,Home Office,Cash,North
+ORD0119,2025-12-14,Store,Hyderabad,P1008,Sneakers,Footwear,3500,4,14000,413,32,Consumer,Debit Card,East
+ORD0120,2025-05-29,Online,Mumbai,P1010,Backpack,Accessories,1500,5,7500,377,32,Home Office,UPI,North
+ORD0121,2025-06-27,Store,Mumbai,P1002,Smartphone,Electronics,30000,1,30000,420,21,Consumer,Debit Card,West
+ORD0122,2025-06-03,Marketplace,Delhi,P1008,Sneakers,Footwear,3500,1,3500,269,14,Home Office,Debit Card,North
+ORD0123,2025-05-20,Online,Pune,P1005,Desk,Furniture,12000,4,48000,306,26,Consumer,Credit Card,West
+ORD0124,2025-04-02,Marketplace,Bangalore,P1005,Desk,Furniture,12000,1,12000,323,42,Home Office,Cash,North
+ORD0125,2025-04-09,Marketplace,Delhi,P1004,Office Chair,Furniture,7000,2,14000,41,17,Corporate,Debit Card,East
+ORD0126,2025-11-01,Mobile App,Mumbai,P1006,T-Shirt,Clothing,800,1,800,298,17,Home Office,Credit Card,East
+ORD0127,2025-10-10,Store,Mumbai,P1009,Watch,Accessories,5000,2,10000,33,12,Corporate,UPI,West
+ORD0128,2025-04-23,Marketplace,Mumbai,P1001,Laptop,Electronics,60000,4,240000,167,29,Home Office,Debit Card,West
+ORD0129,2025-01-23,Marketplace,Delhi,P1003,Headphones,Electronics,3000,2,6000,331,41,Home Office,Credit Card,West
+ORD0130,2025-03-21,Mobile App,Delhi,P1006,T-Shirt,Clothing,800,2,1600,377,40,Consumer,Net Banking,North
+ORD0131,2025-10-21,Mobile App,Bangalore,P1010,Backpack,Accessories,1500,1,1500,86,12,Corporate,Credit Card,North
+ORD0132,2025-03-07,Marketplace,Pune,P1003,Headphones,Electronics,3000,2,6000,306,15,Corporate,Credit Card,North
+ORD0133,2025-11-20,Marketplace,Hyderabad,P1002,Smartphone,Electronics,30000,2,60000,428,45,Home Office,Net Banking,South
+ORD0134,2025-02-06,Marketplace,Mumbai,P1006,T-Shirt,Clothing,800,2,1600,470,31,Corporate,Debit Card,South
+ORD0135,2025-05-17,Marketplace,Pune,P1008,Sneakers,Footwear,3500,1,3500,414,46,Home Office,Cash,East
+ORD0136,2025-07-28,Marketplace,Mumbai,P1008,Sneakers,Footwear,3500,5,17500,62,31,Consumer,Credit Card,West
+ORD0137,2025-12-11,Mobile App,Bangalore,P1003,Headphones,Electronics,3000,4,12000,331,41,Corporate,Cash,West
+ORD0138,2025-12-20,Marketplace,Delhi,P1001,Laptop,Electronics,60000,1,60000,303,45,Consumer,UPI,West
+ORD0139,2025-03-15,Mobile App,Delhi,P1008,Sneakers,Footwear,3500,1,3500,429,50,Corporate,UPI,West
+ORD0140,2025-09-11,Online,Delhi,P1001,Laptop,Electronics,60000,4,240000,73,25,Consumer,Debit Card,West
+ORD0141,2025-03-12,Mobile App,Mumbai,P1003,Headphones,Electronics,3000,4,12000,331,48,Consumer,Cash,West
+ORD0142,2025-07-27,Marketplace,Hyderabad,P1007,Jeans,Clothing,2000,5,10000,375,25,Consumer,Credit Card,West
+ORD0143,2025-05-07,Mobile App,Mumbai,P1001,Laptop,Electronics,60000,4,240000,439,13,Consumer,Net Banking,West
+ORD0144,2025-03-11,Marketplace,Hyderabad,P1008,Sneakers,Footwear,3500,3,10500,353,50,Consumer,Credit Card,South
+ORD0145,2025-01-10,Online,Delhi,P1010,Backpack,Accessories,1500,4,6000,48,27,Corporate,Net Banking,West
+ORD0146,2025-05-13,Store,Delhi,P1005,Desk,Furniture,12000,1,12000,161,28,Corporate,Debit Card,East
+ORD0147,2025-07-05,Mobile App,Hyderabad,P1006,T-Shirt,Clothing,800,2,1600,89,36,Corporate,Net Banking,East
+ORD0148,2025-12-18,Online,Mumbai,P1008,Sneakers,Footwear,3500,5,17500,395,26,Consumer,Net Banking,South
+ORD0149,2025-01-05,Marketplace,Bangalore,P1004,Office Chair,Furniture,7000,5,35000,253,18,Corporate,UPI,South
+ORD0150,2025-02-01,Store,Pune,P1010,Backpack,Accessories,1500,3,4500,426,46,Corporate,Debit Card,South
+ORD0151,2025-07-24,Marketplace,Hyderabad,P1001,Laptop,Electronics,60000,1,60000,418,44,Consumer,Cash,South
+ORD0152,2025-05-20,Mobile App,Delhi,P1004,Office Chair,Furniture,7000,3,21000,206,13,Home Office,Net Banking,West
+ORD0153,2025-08-25,Online,Mumbai,P1009,Watch,Accessories,5000,3,15000,294,31,Corporate,UPI,East
+ORD0154,2025-06-20,Marketplace,Mumbai,P1002,Smartphone,Electronics,30000,3,90000,378,20,Home Office,Cash,South
+ORD0155,2025-04-22,Online,Pune,P1006,T-Shirt,Clothing,800,3,2400,63,27,Consumer,Debit Card,East
+ORD0156,2025-06-25,Online,Pune,P1009,Watch,Accessories,5000,3,15000,397,26,Home Office,Credit Card,East
+ORD0157,2025-01-04,Store,Pune,P1004,Office Chair,Furniture,7000,4,28000,232,18,Consumer,Cash,North
+ORD0158,2025-03-14,Marketplace,Pune,P1002,Smartphone,Electronics,30000,5,150000,154,11,Corporate,UPI,North
+ORD0159,2025-05-12,Store,Pune,P1006,T-Shirt,Clothing,800,2,1600,206,46,Consumer,Cash,East
+ORD0160,2025-09-19,Store,Hyderabad,P1009,Watch,Accessories,5000,5,25000,438,33,Consumer,Cash,North
+ORD0161,2025-12-14,Online,Bangalore,P1005,Desk,Furniture,12000,2,24000,32,17,Consumer,Credit Card,East
+ORD0162,2025-08-12,Mobile App,Pune,P1007,Jeans,Clothing,2000,5,10000,344,13,Consumer,Credit Card,North
+ORD0163,2025-04-10,Online,Bangalore,P1007,Jeans,Clothing,2000,4,8000,256,30,Corporate,UPI,West
+ORD0164,2025-07-09,Mobile App,Pune,P1005,Desk,Furniture,12000,4,48000,242,34,Consumer,Credit Card,West
+ORD0165,2025-10-06,Marketplace,Delhi,P1010,Backpack,Accessories,1500,4,6000,469,50,Corporate,Debit Card,North
+ORD0166,2025-02-12,Store,Bangalore,P1001,Laptop,Electronics,60000,1,60000,493,23,Consumer,Credit Card,West
+ORD0167,2025-02-24,Marketplace,Delhi,P1006,T-Shirt,Clothing,800,1,800,334,17,Consumer,Net Banking,East
+ORD0168,2025-07-16,Marketplace,Hyderabad,P1006,T-Shirt,Clothing,800,5,4000,161,10,Corporate,Credit Card,East
+ORD0169,2025-04-14,Online,Hyderabad,P1003,Headphones,Electronics,3000,5,15000,228,25,Home Office,Net Banking,West
+ORD0170,2025-06-20,Store,Hyderabad,P1005,Desk,Furniture,12000,3,36000,474,20,Home Office,Cash,East
+ORD0171,2025-09-22,Store,Bangalore,P1001,Laptop,Electronics,60000,2,120000,342,27,Home Office,Credit Card,North
+ORD0172,2025-10-30,Store,Delhi,P1009,Watch,Accessories,5000,1,5000,240,42,Corporate,Cash,North
+ORD0173,2025-02-16,Mobile App,Hyderabad,P1005,Desk,Furniture,12000,5,60000,425,18,Corporate,Credit Card,South
+ORD0174,2025-12-26,Marketplace,Pune,P1010,Backpack,Accessories,1500,5,7500,47,20,Corporate,Credit Card,West
+ORD0175,2025-04-14,Mobile App,Delhi,P1005,Desk,Furniture,12000,2,24000,401,40,Consumer,Net Banking,East
+ORD0176,2025-12-31,Online,Pune,P1006,T-Shirt,Clothing,800,1,800,115,15,Home Office,Debit Card,West
+ORD0177,2025-09-10,Online,Pune,P1007,Jeans,Clothing,2000,5,10000,75,39,Corporate,Credit Card,South
+ORD0178,2025-01-06,Marketplace,Delhi,P1003,Headphones,Electronics,3000,1,3000,307,19,Consumer,Debit Card,East
+ORD0179,2025-04-26,Online,Hyderabad,P1005,Desk,Furniture,12000,4,48000,453,20,Home Office,Net Banking,South
+ORD0180,2025-07-24,Marketplace,Bangalore,P1004,Office Chair,Furniture,7000,1,7000,469,43,Consumer,Net Banking,East
+ORD0181,2025-07-12,Online,Mumbai,P1002,Smartphone,Electronics,30000,2,60000,474,12,Corporate,Credit Card,West
+ORD0182,2025-07-27,Online,Pune,P1005,Desk,Furniture,12000,5,60000,453,28,Corporate,Credit Card,North
+ORD0183,2025-05-15,Marketplace,Delhi,P1007,Jeans,Clothing,2000,3,6000,228,13,Home Office,Net Banking,South
+ORD0184,2025-05-11,Mobile App,Pune,P1005,Desk,Furniture,12000,3,36000,449,38,Corporate,Credit Card,South
+ORD0185,2025-09-25,Online,Delhi,P1004,Office Chair,Furniture,7000,4,28000,318,37,Home Office,Cash,West
+ORD0186,2025-07-03,Store,Mumbai,P1008,Sneakers,Footwear,3500,2,7000,78,37,Home Office,Net Banking,North
+ORD0187,2025-05-19,Online,Pune,P1003,Headphones,Electronics,3000,2,6000,97,19,Corporate,Credit Card,West
+ORD0188,2025-12-18,Mobile App,Delhi,P1004,Office Chair,Furniture,7000,2,14000,104,17,Home Office,Debit Card,East
+ORD0189,2025-01-14,Mobile App,Pune,P1008,Sneakers,Footwear,3500,3,10500,352,34,Corporate,Net Banking,West
+ORD0190,2025-07-23,Marketplace,Pune,P1007,Jeans,Clothing,2000,3,6000,486,10,Consumer,Debit Card,East
+ORD0191,2025-11-28,Store,Bangalore,P1001,Laptop,Electronics,60000,5,300000,164,17,Consumer,Cash,North
+ORD0192,2025-08-30,Store,Bangalore,P1010,Backpack,Accessories,1500,1,1500,197,18,Consumer,Cash,East
+ORD0193,2025-07-24,Store,Delhi,P1010,Backpack,Accessories,1500,1,1500,416,11,Consumer,Cash,South
+ORD0194,2025-03-15,Mobile App,Bangalore,P1001,Laptop,Electronics,60000,2,120000,43,21,Corporate,Cash,South
+ORD0195,2025-10-13,Mobile App,Hyderabad,P1010,Backpack,Accessories,1500,1,1500,258,48,Corporate,Net Banking,North
+ORD0196,2025-02-26,Mobile App,Hyderabad,P1006,T-Shirt,Clothing,800,5,4000,105,39,Corporate,Credit Card,East
+ORD0197,2025-10-24,Store,Mumbai,P1002,Smartphone,Electronics,30000,2,60000,289,28,Corporate,Debit Card,South
+ORD0198,2025-01-04,Mobile App,Hyderabad,P1003,Headphones,Electronics,3000,2,6000,22,46,Corporate,UPI,West
+ORD0199,2025-03-31,Store,Bangalore,P1009,Watch,Accessories,5000,4,20000,462,46,Corporate,Debit Card,North
+ORD0200,2025-05-03,Store,Delhi,P1003,Headphones,Electronics,3000,3,9000,422,13,Consumer,UPI,East
+ORD0201,2025-05-25,Mobile App,Delhi,P1004,Office Chair,Furniture,7000,3,21000,241,40,Consumer,Net Banking,West
+ORD0202,2025-02-07,Store,Delhi,P1007,Jeans,Clothing,2000,1,2000,238,22,Home Office,UPI,North
+ORD0203,2025-01-07,Marketplace,Hyderabad,P1005,Desk,Furniture,12000,4,48000,213,37,Corporate,Net Banking,North
+ORD0204,2025-11-21,Online,Delhi,P1008,Sneakers,Footwear,3500,4,14000,144,30,Home Office,UPI,South
+ORD0205,2025-05-28,Store,Delhi,P1001,Laptop,Electronics,60000,5,300000,314,30,Consumer,Debit Card,North
+ORD0206,2025-02-01,Mobile App,Delhi,P1005,Desk,Furniture,12000,5,60000,272,21,Home Office,Debit Card,North
+ORD0207,2025-12-06,Mobile App,Hyderabad,P1002,Smartphone,Electronics,30000,2,60000,401,16,Corporate,UPI,West
+ORD0208,2025-02-07,Store,Mumbai,P1009,Watch,Accessories,5000,3,15000,322,14,Home Office,Cash,East
+ORD0209,2025-03-23,Marketplace,Mumbai,P1004,Office Chair,Furniture,7000,3,21000,274,15,Consumer,Cash,South
+ORD0210,2025-01-27,Store,Pune,P1009,Watch,Accessories,5000,4,20000,385,17,Consumer,UPI,North
+ORD0211,2025-07-21,Store,Mumbai,P1003,Headphones,Electronics,3000,2,6000,355,12,Consumer,Net Banking,East
+ORD0212,2025-07-04,Mobile App,Mumbai,P1005,Desk,Furniture,12000,2,24000,99,10,Consumer,Credit Card,North
+ORD0213,2025-02-22,Store,Delhi,P1010,Backpack,Accessories,1500,5,7500,265,27,Home Office,Cash,South
+ORD0214,2025-11-06,Store,Mumbai,P1006,T-Shirt,Clothing,800,4,3200,216,10,Corporate,Cash,East
+ORD0215,2025-02-22,Store,Hyderabad,P1003,Headphones,Electronics,3000,5,15000,455,19,Corporate,UPI,East
+ORD0216,2025-02-19,Store,Bangalore,P1005,Desk,Furniture,12000,5,60000,125,23,Consumer,Debit Card,South
+ORD0217,2025-01-13,Marketplace,Pune,P1002,Smartphone,Electronics,30000,5,150000,84,43,Home Office,Cash,North
+ORD0218,2025-07-21,Online,Bangalore,P1003,Headphones,Electronics,3000,3,9000,227,17,Consumer,Net Banking,North
+ORD0219,2025-06-26,Marketplace,Mumbai,P1007,Jeans,Clothing,2000,2,4000,332,42,Consumer,Net Banking,East
+ORD0220,2025-04-09,Store,Mumbai,P1001,Laptop,Electronics,60000,4,240000,477,11,Home Office,Cash,South
+ORD0221,2025-02-08,Store,Mumbai,P1009,Watch,Accessories,5000,2,10000,446,13,Consumer,Credit Card,South
+ORD0222,2025-01-10,Marketplace,Bangalore,P1008,Sneakers,Footwear,3500,2,7000,343,29,Corporate,UPI,West
+ORD0223,2025-09-30,Marketplace,Mumbai,P1010,Backpack,Accessories,1500,5,7500,319,15,Corporate,Net Banking,East
+ORD0224,2025-12-15,Store,Bangalore,P1001,Laptop,Electronics,60000,2,120000,72,28,Consumer,Credit Card,North
+ORD0225,2025-12-21,Marketplace,Bangalore,P1007,Jeans,Clothing,2000,5,10000,224,10,Corporate,Cash,North
+ORD0226,2025-05-02,Store,Pune,P1006,T-Shirt,Clothing,800,2,1600,252,29,Home Office,UPI,South
+ORD0227,2025-01-21,Online,Hyderabad,P1004,Office Chair,Furniture,7000,3,21000,286,32,Corporate,Net Banking,East
+ORD0228,2025-05-16,Mobile App,Mumbai,P1003,Headphones,Electronics,3000,3,9000,308,50,Home Office,Debit Card,West
+ORD0229,2025-07-13,Mobile App,Pune,P1005,Desk,Furniture,12000,3,36000,99,41,Consumer,Net Banking,West
+ORD0230,2025-07-12,Mobile App,Mumbai,P1010,Backpack,Accessories,1500,3,4500,180,26,Consumer,Net Banking,East
+ORD0231,2025-10-30,Marketplace,Delhi,P1001,Laptop,Electronics,60000,1,60000,421,31,Home Office,Cash,South
+ORD0232,2025-10-25,Mobile App,Delhi,P1006,T-Shirt,Clothing,800,2,1600,383,22,Consumer,Credit Card,South
+ORD0233,2025-10-17,Mobile App,Mumbai,P1006,T-Shirt,Clothing,800,1,800,403,42,Corporate,Net Banking,East
+ORD0234,2025-01-02,Online,Pune,P1003,Headphones,Electronics,3000,5,15000,250,11,Corporate,Debit Card,West
+ORD0235,2025-01-03,Mobile App,Delhi,P1002,Smartphone,Electronics,30000,2,60000,287,15,Home Office,UPI,West
+ORD0236,2025-12-04,Mobile App,Hyderabad,P1007,Jeans,Clothing,2000,1,2000,219,24,Consumer,Debit Card,East
+ORD0237,2025-09-18,Store,Bangalore,P1003,Headphones,Electronics,3000,2,6000,112,31,Consumer,Cash,East
+ORD0238,2025-10-20,Store,Hyderabad,P1006,T-Shirt,Clothing,800,2,1600,71,36,Home Office,Cash,West
+ORD0239,2025-07-12,Mobile App,Delhi,P1004,Office Chair,Furniture,7000,4,28000,485,13,Corporate,Credit Card,North
+ORD0240,2025-12-02,Online,Bangalore,P1005,Desk,Furniture,12000,2,24000,396,45,Home Office,Debit Card,South
+ORD0241,2025-10-12,Mobile App,Delhi,P1002,Smartphone,Electronics,30000,2,60000,323,27,Corporate,Net Banking,North
+ORD0242,2025-06-30,Marketplace,Pune,P1003,Headphones,Electronics,3000,2,6000,224,50,Home Office,Cash,East
+ORD0243,2025-06-29,Online,Mumbai,P1003,Headphones,Electronics,3000,1,3000,244,38,Home Office,Debit Card,South
+ORD0244,2025-03-29,Online,Hyderabad,P1007,Jeans,Clothing,2000,5,10000,370,44,Corporate,Credit Card,North
+ORD0245,2025-11-06,Online,Delhi,P1006,T-Shirt,Clothing,800,5,4000,295,30,Consumer,Debit Card,North
+ORD0246,2025-09-25,Mobile App,Bangalore,P1006,T-Shirt,Clothing,800,2,1600,209,29,Consumer,Credit Card,South
+ORD0247,2025-09-16,Store,Bangalore,P1007,Jeans,Clothing,2000,2,4000,77,48,Consumer,Net Banking,North
+ORD0248,2025-11-09,Marketplace,Delhi,P1007,Jeans,Clothing,2000,2,4000,480,43,Home Office,Net Banking,North
+ORD0249,2025-10-03,Online,Hyderabad,P1008,Sneakers,Footwear,3500,4,14000,166,15,Consumer,Debit Card,East
+ORD0250,2025-09-07,Online,Delhi,P1009,Watch,Accessories,5000,2,10000,314,32,Home Office,Cash,West
+ORD0251,2025-12-29,Marketplace,Delhi,P1007,Jeans,Clothing,2000,3,6000,133,27,Home Office,Debit Card,North
+ORD0252,2025-07-24,Mobile App,Mumbai,P1006,T-Shirt,Clothing,800,1,800,229,17,Corporate,Net Banking,South
+ORD0253,2025-04-15,Online,Delhi,P1005,Desk,Furniture,12000,5,60000,168,17,Consumer,Cash,East
+ORD0254,2025-10-17,Mobile App,Pune,P1002,Smartphone,Electronics,30000,2,60000,263,21,Home Office,UPI,North
+ORD0255,2025-01-09,Marketplace,Bangalore,P1004,Office Chair,Furniture,7000,3,21000,361,43,Home Office,Cash,North
+ORD0256,2025-04-29,Online,Pune,P1005,Desk,Furniture,12000,3,36000,55,11,Corporate,Net Banking,East
+ORD0257,2025-01-20,Mobile App,Mumbai,P1005,Desk,Furniture,12000,2,24000,189,41,Home Office,Credit Card,North
+ORD0258,2025-05-11,Mobile App,Hyderabad,P1001,Laptop,Electronics,60000,4,240000,191,12,Corporate,Credit Card,North
+ORD0259,2025-08-18,Mobile App,Hyderabad,P1003,Headphones,Electronics,3000,1,3000,450,14,Consumer,Net Banking,East
+ORD0260,2025-03-21,Store,Delhi,P1008,Sneakers,Footwear,3500,2,7000,67,21,Corporate,Debit Card,West
+ORD0261,2025-08-24,Online,Pune,P1003,Headphones,Electronics,3000,2,6000,268,47,Consumer,Net Banking,West
+ORD0262,2025-05-20,Marketplace,Pune,P1009,Watch,Accessories,5000,4,20000,96,20,Corporate,UPI,East
+ORD0263,2025-01-31,Online,Delhi,P1009,Watch,Accessories,5000,1,5000,277,16,Consumer,UPI,East
+ORD0264,2025-10-30,Online,Pune,P1008,Sneakers,Footwear,3500,3,10500,276,20,Corporate,Debit Card,North
+ORD0265,2025-05-08,Marketplace,Hyderabad,P1005,Desk,Furniture,12000,4,48000,36,35,Consumer,Net Banking,South
+ORD0266,2025-11-13,Online,Bangalore,P1002,Smartphone,Electronics,30000,4,120000,72,43,Consumer,Debit Card,West
+ORD0267,2025-05-04,Store,Pune,P1010,Backpack,Accessories,1500,3,4500,441,45,Consumer,Cash,West
+ORD0268,2025-07-08,Marketplace,Hyderabad,P1005,Desk,Furniture,12000,3,36000,200,42,Corporate,Net Banking,East
+ORD0269,2025-03-17,Store,Mumbai,P1003,Headphones,Electronics,3000,4,12000,320,21,Corporate,Debit Card,North
+ORD0270,2025-11-27,Store,Mumbai,P1009,Watch,Accessories,5000,4,20000,392,32,Home Office,Credit Card,West
+ORD0271,2025-11-18,Online,Bangalore,P1005,Desk,Furniture,12000,3,36000,37,11,Corporate,UPI,South
+ORD0272,2025-05-10,Mobile App,Hyderabad,P1002,Smartphone,Electronics,30000,4,120000,440,39,Home Office,Debit Card,North
+ORD0273,2025-01-23,Marketplace,Delhi,P1003,Headphones,Electronics,3000,4,12000,87,33,Home Office,Cash,North
+ORD0274,2025-03-30,Store,Bangalore,P1002,Smartphone,Electronics,30000,2,60000,51,15,Consumer,Cash,East
+ORD0275,2025-11-22,Online,Bangalore,P1001,Laptop,Electronics,60000,2,120000,438,44,Consumer,Net Banking,West
+ORD0276,2025-04-19,Mobile App,Pune,P1010,Backpack,Accessories,1500,4,6000,155,42,Corporate,Debit Card,South
+ORD0277,2025-05-24,Mobile App,Pune,P1005,Desk,Furniture,12000,2,24000,429,49,Consumer,Debit Card,North
+ORD0278,2025-11-22,Mobile App,Mumbai,P1008,Sneakers,Footwear,3500,1,3500,239,13,Corporate,Debit Card,North
+ORD0279,2025-06-04,Mobile App,Mumbai,P1010,Backpack,Accessories,1500,3,4500,455,27,Consumer,Cash,North
+ORD0280,2025-12-25,Online,Delhi,P1002,Smartphone,Electronics,30000,1,30000,29,27,Home Office,Net Banking,South
+ORD0281,2025-03-17,Store,Delhi,P1002,Smartphone,Electronics,30000,2,60000,94,27,Corporate,Cash,North
+ORD0282,2025-11-22,Mobile App,Bangalore,P1001,Laptop,Electronics,60000,1,60000,204,39,Home Office,UPI,North
+ORD0283,2025-08-31,Mobile App,Mumbai,P1007,Jeans,Clothing,2000,4,8000,408,16,Consumer,Net Banking,South
+ORD0284,2025-05-16,Mobile App,Bangalore,P1001,Laptop,Electronics,60000,2,120000,204,38,Consumer,UPI,North
+ORD0285,2025-07-27,Mobile App,Pune,P1007,Jeans,Clothing,2000,2,4000,436,29,Corporate,Cash,North
+ORD0286,2025-08-04,Mobile App,Bangalore,P1003,Headphones,Electronics,3000,5,15000,462,15,Home Office,Cash,South
+ORD0287,2025-05-17,Online,Delhi,P1004,Office Chair,Furniture,7000,3,21000,57,13,Home Office,Cash,West
+ORD0288,2025-09-17,Mobile App,Bangalore,P1004,Office Chair,Furniture,7000,1,7000,314,17,Corporate,Credit Card,East
+ORD0289,2025-09-24,Mobile App,Delhi,P1001,Laptop,Electronics,60000,4,240000,354,27,Consumer,Credit Card,North
+ORD0290,2025-10-14,Online,Mumbai,P1004,Office Chair,Furniture,7000,3,21000,209,16,Corporate,Credit Card,South
+ORD0291,2025-01-05,Marketplace,Pune,P1004,Office Chair,Furniture,7000,1,7000,474,16,Corporate,Net Banking,West
+ORD0292,2025-07-18,Online,Bangalore,P1007,Jeans,Clothing,2000,1,2000,211,40,Consumer,Cash,West
+ORD0293,2025-06-03,Mobile App,Delhi,P1007,Jeans,Clothing,2000,3,6000,246,49,Corporate,Cash,West
+ORD0294,2025-04-08,Marketplace,Delhi,P1008,Sneakers,Footwear,3500,3,10500,292,34,Corporate,Debit Card,North
+ORD0295,2025-11-22,Marketplace,Bangalore,P1001,Laptop,Electronics,60000,3,180000,449,29,Corporate,Net Banking,East
+ORD0296,2025-04-25,Mobile App,Delhi,P1001,Laptop,Electronics,60000,4,240000,301,42,Home Office,Net Banking,North
+ORD0297,2025-12-20,Online,Delhi,P1008,Sneakers,Footwear,3500,1,3500,166,16,Consumer,Debit Card,South
+ORD0298,2025-08-23,Marketplace,Bangalore,P1010,Backpack,Accessories,1500,5,7500,423,15,Consumer,Cash,South
+ORD0299,2025-02-01,Marketplace,Bangalore,P1010,Backpack,Accessories,1500,2,3000,397,45,Home Office,Cash,West
+ORD0300,2025-09-24,Online,Bangalore,P1005,Desk,Furniture,12000,3,36000,259,17,Corporate,Credit Card,East
+ORD0301,2025-04-10,Online,Mumbai,P1004,Office Chair,Furniture,7000,4,28000,494,35,Home Office,Debit Card,East
+ORD0302,2025-02-22,Mobile App,Bangalore,P1010,Backpack,Accessories,1500,1,1500,136,18,Corporate,Credit Card,South
+ORD0303,2025-04-22,Mobile App,Hyderabad,P1005,Desk,Furniture,12000,1,12000,323,22,Corporate,Cash,East
+ORD0304,2025-01-27,Online,Bangalore,P1003,Headphones,Electronics,3000,1,3000,329,33,Corporate,UPI,West
+ORD0305,2025-02-07,Mobile App,Pune,P1001,Laptop,Electronics,60000,3,180000,309,24,Consumer,Credit Card,East
+ORD0306,2025-08-16,Mobile App,Delhi,P1008,Sneakers,Footwear,3500,4,14000,297,14,Home Office,Credit Card,South
+ORD0307,2025-12-09,Marketplace,Mumbai,P1007,Jeans,Clothing,2000,3,6000,64,23,Consumer,UPI,North
+ORD0308,2025-02-26,Store,Mumbai,P1001,Laptop,Electronics,60000,2,120000,273,37,Consumer,Debit Card,West
+ORD0309,2025-08-05,Marketplace,Mumbai,P1006,T-Shirt,Clothing,800,4,3200,197,15,Corporate,Cash,East
+ORD0310,2025-06-06,Marketplace,Delhi,P1001,Laptop,Electronics,60000,2,120000,462,17,Corporate,UPI,South
+ORD0311,2025-05-09,Online,Mumbai,P1009,Watch,Accessories,5000,3,15000,164,41,Home Office,Cash,East
+ORD0312,2025-09-11,Store,Delhi,P1010,Backpack,Accessories,1500,4,6000,141,27,Corporate,Credit Card,West
+ORD0313,2025-04-16,Store,Mumbai,P1010,Backpack,Accessories,1500,2,3000,437,36,Consumer,Net Banking,East
+ORD0314,2025-03-03,Store,Hyderabad,P1002,Smartphone,Electronics,30000,4,120000,220,17,Consumer,Credit Card,East
+ORD0315,2025-07-27,Mobile App,Mumbai,P1002,Smartphone,Electronics,30000,4,120000,26,39,Corporate,Credit Card,South
+ORD0316,2025-02-03,Marketplace,Delhi,P1010,Backpack,Accessories,1500,1,1500,365,29,Home Office,Net Banking,West
+ORD0317,2025-11-12,Mobile App,Pune,P1010,Backpack,Accessories,1500,2,3000,23,14,Home Office,Net Banking,West
+ORD0318,2025-09-06,Store,Pune,P1001,Laptop,Electronics,60000,4,240000,145,32,Corporate,Debit Card,East
+ORD0319,2025-10-11,Mobile App,Delhi,P1007,Jeans,Clothing,2000,1,2000,353,25,Home Office,Debit Card,North
+ORD0320,2025-07-26,Mobile App,Hyderabad,P1007,Jeans,Clothing,2000,1,2000,228,39,Corporate,Debit Card,South
+ORD0321,2025-02-06,Marketplace,Pune,P1008,Sneakers,Footwear,3500,1,3500,386,42,Corporate,Net Banking,East
+ORD0322,2025-03-04,Store,Mumbai,P1002,Smartphone,Electronics,30000,4,120000,304,48,Corporate,UPI,North
+ORD0323,2025-08-18,Marketplace,Delhi,P1008,Sneakers,Footwear,3500,4,14000,104,48,Corporate,Debit Card,West
+ORD0324,2025-01-15,Store,Delhi,P1005,Desk,Furniture,12000,5,60000,34,34,Consumer,Credit Card,South
+ORD0325,2025-06-14,Online,Bangalore,P1007,Jeans,Clothing,2000,3,6000,497,40,Consumer,Debit Card,South
+ORD0326,2025-09-11,Mobile App,Pune,P1010,Backpack,Accessories,1500,3,4500,85,24,Consumer,Credit Card,West
+ORD0327,2025-06-18,Mobile App,Mumbai,P1004,Office Chair,Furniture,7000,3,21000,49,30,Consumer,UPI,East
+ORD0328,2025-11-14,Online,Hyderabad,P1008,Sneakers,Footwear,3500,2,7000,221,42,Corporate,Net Banking,North
+ORD0329,2025-12-17,Store,Pune,P1002,Smartphone,Electronics,30000,5,150000,494,43,Home Office,UPI,East
+ORD0330,2025-02-18,Online,Delhi,P1008,Sneakers,Footwear,3500,3,10500,383,27,Consumer,UPI,North
+ORD0331,2025-11-24,Mobile App,Delhi,P1001,Laptop,Electronics,60000,1,60000,130,29,Home Office,Net Banking,South
+ORD0332,2025-02-10,Marketplace,Hyderabad,P1009,Watch,Accessories,5000,2,10000,91,22,Corporate,Credit Card,South
+ORD0333,2025-02-13,Mobile App,Hyderabad,P1004,Office Chair,Furniture,7000,4,28000,488,29,Home Office,UPI,North
+ORD0334,2025-03-20,Mobile App,Pune,P1010,Backpack,Accessories,1500,1,1500,409,10,Corporate,Net Banking,South
+ORD0335,2025-01-28,Mobile App,Pune,P1007,Jeans,Clothing,2000,2,4000,117,27,Home Office,UPI,South
+ORD0336,2025-04-14,Marketplace,Pune,P1009,Watch,Accessories,5000,3,15000,336,45,Home Office,Credit Card,West
+ORD0337,2025-11-10,Marketplace,Mumbai,P1001,Laptop,Electronics,60000,3,180000,254,34,Home Office,Cash,East
+ORD0338,2025-04-12,Mobile App,Bangalore,P1005,Desk,Furniture,12000,3,36000,208,30,Home Office,Credit Card,South
+ORD0339,2025-08-08,Marketplace,Bangalore,P1005,Desk,Furniture,12000,1,12000,461,43,Home Office,UPI,East
+ORD0340,2025-12-09,Mobile App,Bangalore,P1005,Desk,Furniture,12000,5,60000,202,20,Home Office,UPI,South
+ORD0341,2025-12-09,Store,Pune,P1004,Office Chair,Furniture,7000,1,7000,94,26,Corporate,Net Banking,West
+ORD0342,2025-06-21,Store,Mumbai,P1009,Watch,Accessories,5000,4,20000,392,43,Consumer,UPI,West
+ORD0343,2025-08-07,Store,Mumbai,P1001,Laptop,Electronics,60000,2,120000,458,50,Corporate,UPI,East
+ORD0344,2025-01-01,Mobile App,Pune,P1008,Sneakers,Footwear,3500,2,7000,317,31,Consumer,Debit Card,West
+ORD0345,2025-10-21,Store,Bangalore,P1006,T-Shirt,Clothing,800,5,4000,30,18,Home Office,Debit Card,North
+ORD0346,2025-08-30,Marketplace,Mumbai,P1008,Sneakers,Footwear,3500,4,14000,393,29,Consumer,Debit Card,North
+ORD0347,2025-04-04,Store,Hyderabad,P1007,Jeans,Clothing,2000,3,6000,444,16,Corporate,Credit Card,North
+ORD0348,2025-05-07,Online,Pune,P1005,Desk,Furniture,12000,2,24000,225,23,Home Office,Net Banking,East
+ORD0349,2025-10-20,Mobile App,Pune,P1002,Smartphone,Electronics,30000,1,30000,267,30,Consumer,UPI,East
+ORD0350,2025-07-11,Online,Bangalore,P1003,Headphones,Electronics,3000,1,3000,500,23,Corporate,Net Banking,South
+ORD0351,2025-03-03,Marketplace,Pune,P1009,Watch,Accessories,5000,1,5000,397,48,Corporate,Net Banking,East
+ORD0352,2025-01-07,Marketplace,Mumbai,P1008,Sneakers,Footwear,3500,4,14000,341,29,Consumer,UPI,East
+ORD0353,2025-05-29,Store,Pune,P1007,Jeans,Clothing,2000,1,2000,232,35,Home Office,Credit Card,West
+ORD0354,2025-06-15,Mobile App,Delhi,P1001,Laptop,Electronics,60000,5,300000,441,12,Corporate,Credit Card,East
+ORD0355,2025-10-17,Online,Hyderabad,P1005,Desk,Furniture,12000,3,36000,34,50,Home Office,UPI,North
+ORD0356,2025-11-05,Online,Pune,P1007,Jeans,Clothing,2000,5,10000,178,14,Corporate,Credit Card,East
+ORD0357,2025-06-19,Marketplace,Pune,P1009,Watch,Accessories,5000,5,25000,473,46,Home Office,Cash,North
+ORD0358,2025-04-21,Store,Pune,P1001,Laptop,Electronics,60000,3,180000,68,36,Corporate,Cash,South
+ORD0359,2025-05-01,Online,Mumbai,P1010,Backpack,Accessories,1500,1,1500,295,40,Corporate,Credit Card,East
+ORD0360,2025-01-29,Online,Mumbai,P1010,Backpack,Accessories,1500,4,6000,189,11,Consumer,Credit Card,South
+ORD0361,2025-04-26,Marketplace,Bangalore,P1010,Backpack,Accessories,1500,5,7500,90,17,Consumer,UPI,South
+ORD0362,2025-09-09,Mobile App,Delhi,P1004,Office Chair,Furniture,7000,1,7000,85,31,Home Office,Cash,East
+ORD0363,2025-12-30,Marketplace,Hyderabad,P1001,Laptop,Electronics,60000,1,60000,446,27,Home Office,Credit Card,East
+ORD0364,2025-11-23,Mobile App,Delhi,P1002,Smartphone,Electronics,30000,2,60000,415,10,Home Office,Debit Card,North
+ORD0365,2025-12-22,Mobile App,Bangalore,P1007,Jeans,Clothing,2000,3,6000,356,32,Home Office,Cash,East
+ORD0366,2025-11-08,Marketplace,Pune,P1009,Watch,Accessories,5000,3,15000,417,35,Corporate,Net Banking,South
+ORD0367,2025-10-08,Mobile App,Hyderabad,P1005,Desk,Furniture,12000,1,12000,174,16,Consumer,Debit Card,West
+ORD0368,2025-05-23,Store,Delhi,P1001,Laptop,Electronics,60000,3,180000,350,17,Consumer,UPI,South
+ORD0369,2025-07-17,Store,Pune,P1005,Desk,Furniture,12000,4,48000,466,34,Consumer,Credit Card,North
+ORD0370,2025-11-26,Store,Mumbai,P1003,Headphones,Electronics,3000,1,3000,390,36,Consumer,UPI,East
+ORD0371,2025-01-19,Online,Bangalore,P1001,Laptop,Electronics,60000,5,300000,246,28,Home Office,Cash,North
+ORD0372,2025-01-26,Marketplace,Delhi,P1010,Backpack,Accessories,1500,5,7500,71,26,Home Office,Cash,East
+ORD0373,2025-08-09,Marketplace,Bangalore,P1004,Office Chair,Furniture,7000,3,21000,278,28,Home Office,Debit Card,North
+ORD0374,2025-10-08,Marketplace,Mumbai,P1002,Smartphone,Electronics,30000,4,120000,344,30,Corporate,Net Banking,North
+ORD0375,2025-01-02,Store,Bangalore,P1001,Laptop,Electronics,60000,1,60000,52,22,Corporate,Cash,North
+ORD0376,2025-10-11,Mobile App,Delhi,P1009,Watch,Accessories,5000,4,20000,304,22,Corporate,Credit Card,South
+ORD0377,2025-04-03,Online,Bangalore,P1004,Office Chair,Furniture,7000,4,28000,218,32,Corporate,Net Banking,West
+ORD0378,2025-02-22,Mobile App,Delhi,P1007,Jeans,Clothing,2000,1,2000,42,14,Consumer,UPI,East
+ORD0379,2025-08-11,Online,Mumbai,P1010,Backpack,Accessories,1500,1,1500,61,22,Corporate,Debit Card,East
+ORD0380,2025-02-04,Online,Mumbai,P1004,Office Chair,Furniture,7000,5,35000,147,25,Home Office,Cash,North
+ORD0381,2025-02-09,Store,Delhi,P1008,Sneakers,Footwear,3500,3,10500,344,36,Corporate,Net Banking,South
+ORD0382,2025-08-02,Online,Hyderabad,P1006,T-Shirt,Clothing,800,4,3200,433,41,Consumer,Cash,West
+ORD0383,2025-12-07,Mobile App,Delhi,P1002,Smartphone,Electronics,30000,2,60000,154,13,Corporate,UPI,West
+ORD0384,2025-08-12,Marketplace,Delhi,P1001,Laptop,Electronics,60000,3,180000,412,28,Home Office,Cash,East
+ORD0385,2025-08-13,Store,Mumbai,P1003,Headphones,Electronics,3000,4,12000,462,14,Corporate,Net Banking,West
+ORD0386,2025-01-09,Mobile App,Pune,P1003,Headphones,Electronics,3000,3,9000,99,50,Home Office,Cash,East
+ORD0387,2025-08-04,Store,Delhi,P1010,Backpack,Accessories,1500,3,4500,36,38,Corporate,Debit Card,South
+ORD0388,2025-11-13,Mobile App,Hyderabad,P1002,Smartphone,Electronics,30000,5,150000,90,40,Corporate,Debit Card,West
+ORD0389,2025-08-15,Store,Delhi,P1005,Desk,Furniture,12000,4,48000,191,16,Consumer,Debit Card,East
+ORD0390,2025-01-12,Online,Delhi,P1001,Laptop,Electronics,60000,3,180000,365,47,Consumer,Net Banking,South
+ORD0391,2025-02-04,Mobile App,Bangalore,P1007,Jeans,Clothing,2000,1,2000,278,50,Consumer,Net Banking,East
+ORD0392,2025-01-08,Marketplace,Pune,P1010,Backpack,Accessories,1500,2,3000,150,27,Corporate,Credit Card,East
+ORD0393,2025-01-02,Store,Pune,P1008,Sneakers,Footwear,3500,3,10500,285,21,Consumer,Debit Card,South
+ORD0394,2025-05-16,Marketplace,Hyderabad,P1002,Smartphone,Electronics,30000,4,120000,406,15,Corporate,Credit Card,South
+ORD0395,2025-11-08,Online,Bangalore,P1006,T-Shirt,Clothing,800,4,3200,42,26,Consumer,Debit Card,West
+ORD0396,2025-04-08,Mobile App,Pune,P1002,Smartphone,Electronics,30000,3,90000,299,24,Consumer,Net Banking,North
+ORD0397,2025-12-03,Store,Hyderabad,P1004,Office Chair,Furniture,7000,2,14000,389,12,Home Office,Cash,West
+ORD0398,2025-12-22,Mobile App,Hyderabad,P1007,Jeans,Clothing,2000,4,8000,478,48,Corporate,Credit Card,North
+ORD0399,2025-05-08,Online,Delhi,P1010,Backpack,Accessories,1500,1,1500,142,31,Corporate,UPI,South
+ORD0400,2025-05-02,Store,Mumbai,P1003,Headphones,Electronics,3000,2,6000,378,37,Consumer,Cash,North
+ORD0401,2025-03-16,Mobile App,Pune,P1002,Smartphone,Electronics,30000,2,60000,74,44,Corporate,Credit Card,West
+ORD0402,2025-01-30,Online,Hyderabad,P1006,T-Shirt,Clothing,800,1,800,288,17,Home Office,Credit Card,North
+ORD0403,2025-05-17,Marketplace,Bangalore,P1010,Backpack,Accessories,1500,2,3000,79,45,Consumer,Debit Card,North
+ORD0404,2025-02-10,Store,Bangalore,P1008,Sneakers,Footwear,3500,2,7000,248,24,Home Office,Credit Card,West
+ORD0405,2025-11-21,Online,Mumbai,P1001,Laptop,Electronics,60000,3,180000,57,39,Home Office,Net Banking,North
+ORD0406,2025-04-13,Store,Pune,P1007,Jeans,Clothing,2000,1,2000,306,37,Consumer,UPI,West
+ORD0407,2025-01-13,Store,Bangalore,P1005,Desk,Furniture,12000,4,48000,82,29,Corporate,Debit Card,West
+ORD0408,2025-07-27,Online,Mumbai,P1001,Laptop,Electronics,60000,1,60000,231,25,Consumer,Net Banking,East
+ORD0409,2025-11-09,Online,Pune,P1008,Sneakers,Footwear,3500,1,3500,283,32,Corporate,UPI,North
+ORD0410,2025-04-08,Marketplace,Delhi,P1001,Laptop,Electronics,60000,3,180000,458,46,Consumer,Credit Card,West
+ORD0411,2025-07-10,Marketplace,Mumbai,P1006,T-Shirt,Clothing,800,2,1600,194,39,Corporate,UPI,North
+ORD0412,2025-12-17,Online,Delhi,P1007,Jeans,Clothing,2000,2,4000,69,45,Home Office,UPI,South
+ORD0413,2025-10-01,Online,Delhi,P1010,Backpack,Accessories,1500,4,6000,216,37,Home Office,UPI,North
+ORD0414,2025-02-17,Online,Delhi,P1008,Sneakers,Footwear,3500,5,17500,149,44,Corporate,Debit Card,South
+ORD0415,2025-07-11,Marketplace,Delhi,P1008,Sneakers,Footwear,3500,3,10500,439,44,Consumer,Debit Card,North
+ORD0416,2025-05-03,Online,Hyderabad,P1001,Laptop,Electronics,60000,1,60000,255,24,Consumer,Net Banking,North
+ORD0417,2025-01-24,Marketplace,Pune,P1006,T-Shirt,Clothing,800,4,3200,59,29,Corporate,Cash,North
+ORD0418,2025-06-21,Online,Hyderabad,P1009,Watch,Accessories,5000,5,25000,196,25,Home Office,Debit Card,West
+ORD0419,2025-01-19,Online,Bangalore,P1004,Office Chair,Furniture,7000,5,35000,189,12,Consumer,Debit Card,East
+ORD0420,2025-12-12,Store,Mumbai,P1004,Office Chair,Furniture,7000,5,35000,276,47,Home Office,Cash,East
+ORD0421,2025-05-08,Online,Bangalore,P1006,T-Shirt,Clothing,800,3,2400,482,23,Corporate,Credit Card,West
+ORD0422,2025-05-18,Marketplace,Hyderabad,P1010,Backpack,Accessories,1500,2,3000,448,19,Home Office,Credit Card,East
+ORD0423,2025-10-22,Mobile App,Pune,P1008,Sneakers,Footwear,3500,2,7000,271,29,Consumer,Net Banking,South
+ORD0424,2025-02-13,Online,Hyderabad,P1006,T-Shirt,Clothing,800,2,1600,67,19,Home Office,Debit Card,North
+ORD0425,2025-11-18,Marketplace,Bangalore,P1006,T-Shirt,Clothing,800,5,4000,306,32,Consumer,Debit Card,South
+ORD0426,2025-04-15,Store,Hyderabad,P1001,Laptop,Electronics,60000,1,60000,316,22,Corporate,UPI,West
+ORD0427,2025-06-17,Mobile App,Mumbai,P1004,Office Chair,Furniture,7000,2,14000,320,12,Corporate,Cash,South
+ORD0428,2025-02-27,Online,Mumbai,P1008,Sneakers,Footwear,3500,4,14000,247,23,Corporate,Cash,North
+ORD0429,2025-08-11,Online,Hyderabad,P1003,Headphones,Electronics,3000,4,12000,174,27,Consumer,Debit Card,West
+ORD0430,2025-11-09,Mobile App,Bangalore,P1004,Office Chair,Furniture,7000,3,21000,259,27,Corporate,Debit Card,South
+ORD0431,2025-01-14,Store,Pune,P1006,T-Shirt,Clothing,800,4,3200,79,43,Corporate,Net Banking,East
+ORD0432,2025-07-19,Store,Hyderabad,P1010,Backpack,Accessories,1500,2,3000,489,31,Consumer,UPI,North
+ORD0433,2025-05-19,Online,Mumbai,P1008,Sneakers,Footwear,3500,4,14000,345,22,Consumer,Credit Card,South
+ORD0434,2025-10-05,Marketplace,Mumbai,P1010,Backpack,Accessories,1500,2,3000,490,40,Home Office,Net Banking,West
+ORD0435,2025-04-08,Online,Bangalore,P1007,Jeans,Clothing,2000,1,2000,151,46,Home Office,Debit Card,East
+ORD0436,2025-08-29,Store,Pune,P1007,Jeans,Clothing,2000,5,10000,414,32,Home Office,UPI,East
+ORD0437,2025-06-06,Online,Delhi,P1001,Laptop,Electronics,60000,3,180000,225,36,Consumer,Debit Card,North
+ORD0438,2025-12-16,Mobile App,Hyderabad,P1008,Sneakers,Footwear,3500,4,14000,147,46,Home Office,Cash,South
+ORD0439,2025-01-02,Store,Bangalore,P1006,T-Shirt,Clothing,800,2,1600,148,46,Corporate,Credit Card,North
+ORD0440,2025-01-09,Mobile App,Hyderabad,P1007,Jeans,Clothing,2000,1,2000,192,40,Home Office,UPI,South
+ORD0441,2025-03-21,Store,Hyderabad,P1006,T-Shirt,Clothing,800,2,1600,103,18,Corporate,Cash,East
+ORD0442,2025-01-10,Marketplace,Bangalore,P1005,Desk,Furniture,12000,4,48000,327,20,Home Office,Credit Card,West
+ORD0443,2025-07-18,Online,Pune,P1003,Headphones,Electronics,3000,5,15000,299,27,Corporate,Debit Card,North
+ORD0444,2025-02-11,Online,Pune,P1007,Jeans,Clothing,2000,3,6000,352,23,Consumer,Credit Card,South
+ORD0445,2025-11-12,Store,Mumbai,P1001,Laptop,Electronics,60000,2,120000,102,30,Home Office,Credit Card,North
+ORD0446,2025-03-18,Marketplace,Delhi,P1003,Headphones,Electronics,3000,2,6000,130,34,Consumer,Net Banking,West
+ORD0447,2025-08-29,Marketplace,Pune,P1004,Office Chair,Furniture,7000,3,21000,204,50,Consumer,Debit Card,North
+ORD0448,2025-10-07,Marketplace,Delhi,P1009,Watch,Accessories,5000,4,20000,57,47,Consumer,UPI,South
+ORD0449,2025-10-20,Store,Bangalore,P1001,Laptop,Electronics,60000,1,60000,451,46,Corporate,UPI,North
+ORD0450,2025-10-10,Store,Pune,P1010,Backpack,Accessories,1500,4,6000,350,12,Home Office,Credit Card,West
+ORD0451,2025-06-27,Online,Bangalore,P1009,Watch,Accessories,5000,2,10000,315,18,Consumer,Net Banking,North
+ORD0452,2025-05-24,Marketplace,Mumbai,P1006,T-Shirt,Clothing,800,5,4000,215,32,Corporate,Credit Card,East
+ORD0453,2025-03-14,Online,Hyderabad,P1001,Laptop,Electronics,60000,1,60000,343,16,Consumer,Credit Card,North
+ORD0454,2025-10-08,Online,Delhi,P1009,Watch,Accessories,5000,2,10000,453,10,Corporate,Debit Card,South
+ORD0455,2025-12-23,Store,Mumbai,P1007,Jeans,Clothing,2000,2,4000,296,18,Consumer,Cash,North
+ORD0456,2025-09-17,Online,Delhi,P1001,Laptop,Electronics,60000,3,180000,164,29,Consumer,Cash,West
+ORD0457,2025-03-14,Store,Bangalore,P1001,Laptop,Electronics,60000,5,300000,55,35,Corporate,Net Banking,South
+ORD0458,2025-07-04,Online,Bangalore,P1007,Jeans,Clothing,2000,2,4000,239,24,Home Office,Credit Card,West
+ORD0459,2025-07-06,Online,Pune,P1001,Laptop,Electronics,60000,1,60000,92,20,Consumer,Cash,West
+ORD0460,2025-09-01,Store,Bangalore,P1010,Backpack,Accessories,1500,3,4500,134,42,Corporate,Credit Card,North
+ORD0461,2025-11-01,Store,Mumbai,P1007,Jeans,Clothing,2000,3,6000,376,35,Home Office,Debit Card,South
+ORD0462,2025-06-07,Store,Mumbai,P1008,Sneakers,Footwear,3500,5,17500,198,34,Corporate,Credit Card,North
+ORD0463,2025-05-30,Marketplace,Delhi,P1004,Office Chair,Furniture,7000,5,35000,382,45,Home Office,Credit Card,West
+ORD0464,2025-12-06,Store,Pune,P1010,Backpack,Accessories,1500,4,6000,470,15,Consumer,Debit Card,North
+ORD0465,2025-06-16,Mobile App,Pune,P1010,Backpack,Accessories,1500,1,1500,343,19,Home Office,Credit Card,West
+ORD0466,2025-05-29,Online,Delhi,P1001,Laptop,Electronics,60000,4,240000,23,45,Home Office,Cash,East
+ORD0467,2025-03-27,Marketplace,Mumbai,P1001,Laptop,Electronics,60000,3,180000,485,34,Home Office,Debit Card,North
+ORD0468,2025-01-02,Marketplace,Pune,P1002,Smartphone,Electronics,30000,1,30000,486,11,Consumer,Debit Card,West
+ORD0469,2025-04-20,Mobile App,Hyderabad,P1010,Backpack,Accessories,1500,4,6000,493,24,Corporate,UPI,East
+ORD0470,2025-09-05,Online,Delhi,P1007,Jeans,Clothing,2000,5,10000,392,41,Consumer,Credit Card,South
+ORD0471,2025-06-30,Online,Mumbai,P1009,Watch,Accessories,5000,5,25000,447,25,Consumer,Credit Card,North
+ORD0472,2025-09-14,Marketplace,Bangalore,P1002,Smartphone,Electronics,30000,4,120000,344,14,Corporate,Debit Card,East
+ORD0473,2025-09-02,Mobile App,Delhi,P1010,Backpack,Accessories,1500,5,7500,30,33,Home Office,Debit Card,South
+ORD0474,2025-03-04,Marketplace,Delhi,P1009,Watch,Accessories,5000,4,20000,219,30,Corporate,Credit Card,North
+ORD0475,2025-04-13,Marketplace,Mumbai,P1005,Desk,Furniture,12000,3,36000,211,48,Consumer,Cash,East
+ORD0476,2025-07-05,Mobile App,Delhi,P1005,Desk,Furniture,12000,2,24000,164,25,Corporate,UPI,East
+ORD0477,2025-11-09,Online,Bangalore,P1002,Smartphone,Electronics,30000,2,60000,279,21,Consumer,Debit Card,West
+ORD0478,2025-09-10,Store,Pune,P1010,Backpack,Accessories,1500,4,6000,153,24,Home Office,Debit Card,North
+ORD0479,2025-05-11,Online,Delhi,P1008,Sneakers,Footwear,3500,3,10500,38,10,Consumer,Debit Card,West
+ORD0480,2025-06-18,Online,Delhi,P1007,Jeans,Clothing,2000,1,2000,231,47,Corporate,Cash,East
+ORD0481,2025-05-17,Marketplace,Pune,P1001,Laptop,Electronics,60000,2,120000,103,24,Corporate,UPI,South
+ORD0482,2025-04-13,Store,Mumbai,P1008,Sneakers,Footwear,3500,4,14000,244,15,Consumer,Cash,East
+ORD0483,2025-11-02,Mobile App,Delhi,P1007,Jeans,Clothing,2000,3,6000,348,48,Corporate,UPI,North
+ORD0484,2025-04-14,Marketplace,Delhi,P1005,Desk,Furniture,12000,1,12000,142,26,Corporate,Net Banking,North
+ORD0485,2025-07-10,Store,Mumbai,P1001,Laptop,Electronics,60000,4,240000,496,13,Corporate,Cash,East
+ORD0486,2025-12-20,Mobile App,Delhi,P1002,Smartphone,Electronics,30000,1,30000,162,38,Consumer,Net Banking,North
+ORD0487,2025-12-16,Store,Hyderabad,P1006,T-Shirt,Clothing,800,5,4000,147,43,Consumer,UPI,South
+ORD0488,2025-10-03,Mobile App,Pune,P1010,Backpack,Accessories,1500,2,3000,421,34,Home Office,Credit Card,West
+ORD0489,2025-10-04,Store,Bangalore,P1001,Laptop,Electronics,60000,4,240000,34,30,Consumer,UPI,South
+ORD0490,2025-12-23,Store,Bangalore,P1003,Headphones,Electronics,3000,5,15000,320,20,Consumer,Cash,West
+ORD0491,2025-07-22,Marketplace,Hyderabad,P1006,T-Shirt,Clothing,800,5,4000,157,18,Home Office,UPI,East
+ORD0492,2025-09-20,Marketplace,Pune,P1002,Smartphone,Electronics,30000,5,150000,55,20,Home Office,Net Banking,East
+ORD0493,2025-08-14,Marketplace,Pune,P1005,Desk,Furniture,12000,2,24000,62,36,Corporate,Net Banking,South
+ORD0494,2025-07-13,Mobile App,Bangalore,P1004,Office Chair,Furniture,7000,4,28000,329,28,Consumer,Debit Card,East
+ORD0495,2025-01-21,Marketplace,Hyderabad,P1002,Smartphone,Electronics,30000,3,90000,89,40,Corporate,Cash,South
+ORD0496,2025-07-15,Store,Delhi,P1008,Sneakers,Footwear,3500,1,3500,176,19,Home Office,Credit Card,West
+ORD0497,2025-04-30,Mobile App,Mumbai,P1005,Desk,Furniture,12000,5,60000,342,34,Corporate,Debit Card,North
+ORD0498,2025-07-10,Mobile App,Hyderabad,P1005,Desk,Furniture,12000,1,12000,392,18,Corporate,Cash,North
+ORD0499,2025-02-13,Mobile App,Hyderabad,P1003,Headphones,Electronics,3000,2,6000,312,38,Corporate,Net Banking,East
+ORD0500,2025-02-04,Store,Mumbai,P1010,Backpack,Accessories,1500,5,7500,456,37,Corporate,Credit Card,West
+ORD0501,2025-01-21,Online,Bangalore,P1008,Sneakers,Footwear,3500,5,17500,380,27,Corporate,UPI,West
+ORD0502,2025-06-24,Online,Delhi,P1001,Laptop,Electronics,60000,1,60000,141,29,Corporate,UPI,East
+ORD0503,2025-10-18,Mobile App,Hyderabad,P1004,Office Chair,Furniture,7000,3,21000,356,17,Consumer,UPI,West
+ORD0504,2025-01-07,Mobile App,Delhi,P1007,Jeans,Clothing,2000,4,8000,330,15,Home Office,Debit Card,East
+ORD0505,2025-01-31,Store,Pune,P1008,Sneakers,Footwear,3500,5,17500,93,12,Consumer,UPI,West
+ORD0506,2025-04-24,Mobile App,Mumbai,P1007,Jeans,Clothing,2000,3,6000,40,18,Corporate,Debit Card,South
+ORD0507,2025-12-08,Online,Delhi,P1008,Sneakers,Footwear,3500,3,10500,238,30,Home Office,Credit Card,North
+ORD0508,2025-09-19,Store,Hyderabad,P1007,Jeans,Clothing,2000,4,8000,290,36,Corporate,Cash,North
+ORD0509,2025-07-31,Store,Bangalore,P1003,Headphones,Electronics,3000,4,12000,31,30,Corporate,Debit Card,North
+ORD0510,2025-07-16,Mobile App,Pune,P1008,Sneakers,Footwear,3500,2,7000,403,25,Corporate,Cash,East
+ORD0511,2025-09-22,Online,Hyderabad,P1009,Watch,Accessories,5000,3,15000,170,21,Consumer,UPI,South
+ORD0512,2025-12-28,Marketplace,Delhi,P1004,Office Chair,Furniture,7000,5,35000,51,48,Consumer,Cash,South
+ORD0513,2025-10-16,Marketplace,Bangalore,P1002,Smartphone,Electronics,30000,1,30000,116,44,Home Office,Net Banking,South
+ORD0514,2025-08-30,Online,Bangalore,P1005,Desk,Furniture,12000,4,48000,313,33,Consumer,Net Banking,South
+ORD0515,2025-01-19,Marketplace,Pune,P1009,Watch,Accessories,5000,4,20000,328,25,Home Office,Debit Card,North
+ORD0516,2025-12-29,Marketplace,Bangalore,P1004,Office Chair,Furniture,7000,1,7000,166,50,Consumer,Cash,East
+ORD0517,2025-01-01,Store,Mumbai,P1008,Sneakers,Footwear,3500,5,17500,346,42,Home Office,Debit Card,North
+ORD0518,2025-06-21,Marketplace,Bangalore,P1010,Backpack,Accessories,1500,3,4500,209,48,Consumer,UPI,North
+ORD0519,2025-08-19,Marketplace,Bangalore,P1004,Office Chair,Furniture,7000,5,35000,45,30,Home Office,Net Banking,South
+ORD0520,2025-12-18,Store,Delhi,P1006,T-Shirt,Clothing,800,4,3200,70,29,Home Office,Net Banking,South
+ORD0521,2025-02-20,Store,Pune,P1003,Headphones,Electronics,3000,4,12000,419,30,Corporate,Cash,East
+ORD0522,2025-03-31,Marketplace,Delhi,P1001,Laptop,Electronics,60000,3,180000,286,27,Home Office,Debit Card,West
+ORD0523,2025-04-13,Store,Pune,P1005,Desk,Furniture,12000,5,60000,157,44,Consumer,Net Banking,East
+ORD0524,2025-02-20,Mobile App,Pune,P1007,Jeans,Clothing,2000,1,2000,143,50,Home Office,UPI,West
+ORD0525,2025-01-21,Marketplace,Hyderabad,P1005,Desk,Furniture,12000,5,60000,290,30,Home Office,Credit Card,East
+ORD0526,2025-02-23,Store,Hyderabad,P1007,Jeans,Clothing,2000,5,10000,336,24,Consumer,Net Banking,South
+ORD0527,2025-02-26,Marketplace,Delhi,P1004,Office Chair,Furniture,7000,3,21000,191,18,Home Office,Cash,East
+ORD0528,2025-06-05,Online,Pune,P1008,Sneakers,Footwear,3500,4,14000,316,25,Consumer,Net Banking,West
+ORD0529,2025-11-06,Marketplace,Delhi,P1003,Headphones,Electronics,3000,4,12000,467,18,Consumer,UPI,North
+ORD0530,2025-11-27,Store,Mumbai,P1004,Office Chair,Furniture,7000,2,14000,339,10,Home Office,Net Banking,East
+ORD0531,2025-01-27,Store,Bangalore,P1001,Laptop,Electronics,60000,3,180000,231,17,Consumer,Net Banking,West
+ORD0532,2025-02-11,Store,Hyderabad,P1005,Desk,Furniture,12000,5,60000,269,12,Consumer,Credit Card,North
+ORD0533,2025-09-26,Mobile App,Delhi,P1008,Sneakers,Footwear,3500,5,17500,372,18,Corporate,Net Banking,North
+ORD0534,2025-10-03,Online,Bangalore,P1005,Desk,Furniture,12000,2,24000,440,23,Home Office,Credit Card,South
+ORD0535,2025-05-28,Store,Hyderabad,P1010,Backpack,Accessories,1500,5,7500,241,42,Home Office,Credit Card,West
+ORD0536,2025-02-10,Marketplace,Pune,P1001,Laptop,Electronics,60000,3,180000,298,19,Home Office,Cash,North
+ORD0537,2025-11-12,Store,Bangalore,P1008,Sneakers,Footwear,3500,1,3500,179,47,Home Office,Cash,South
+ORD0538,2025-11-16,Marketplace,Mumbai,P1007,Jeans,Clothing,2000,2,4000,158,34,Consumer,Net Banking,East
+ORD0539,2025-11-30,Marketplace,Delhi,P1007,Jeans,Clothing,2000,2,4000,188,23,Consumer,Cash,East
+ORD0540,2025-12-17,Marketplace,Bangalore,P1001,Laptop,Electronics,60000,3,180000,54,43,Corporate,Credit Card,East
+ORD0541,2025-03-17,Store,Pune,P1001,Laptop,Electronics,60000,5,300000,374,35,Corporate,Credit Card,East
+ORD0542,2025-06-09,Online,Bangalore,P1005,Desk,Furniture,12000,1,12000,407,26,Corporate,Cash,South
+ORD0543,2025-07-14,Marketplace,Hyderabad,P1004,Office Chair,Furniture,7000,2,14000,142,47,Consumer,UPI,East
+ORD0544,2025-08-03,Store,Bangalore,P1002,Smartphone,Electronics,30000,3,90000,148,38,Home Office,Cash,East
+ORD0545,2025-04-12,Mobile App,Pune,P1007,Jeans,Clothing,2000,4,8000,201,21,Home Office,Debit Card,South
+ORD0546,2025-11-20,Marketplace,Hyderabad,P1009,Watch,Accessories,5000,5,25000,79,12,Corporate,Net Banking,South
+ORD0547,2025-12-07,Store,Mumbai,P1007,Jeans,Clothing,2000,1,2000,159,23,Consumer,UPI,West
+ORD0548,2025-02-08,Marketplace,Delhi,P1007,Jeans,Clothing,2000,5,10000,404,47,Corporate,UPI,West
+ORD0549,2025-05-06,Store,Pune,P1007,Jeans,Clothing,2000,4,8000,376,35,Consumer,Net Banking,South
+ORD0550,2025-04-17,Marketplace,Pune,P1003,Headphones,Electronics,3000,1,3000,373,31,Corporate,UPI,East
+ORD0551,2025-10-12,Store,Pune,P1003,Headphones,Electronics,3000,3,9000,473,42,Consumer,Cash,South
+ORD0552,2025-06-12,Marketplace,Bangalore,P1001,Laptop,Electronics,60000,2,120000,467,12,Home Office,Credit Card,West
+ORD0553,2025-06-05,Mobile App,Bangalore,P1010,Backpack,Accessories,1500,4,6000,468,33,Home Office,Credit Card,East
+ORD0554,2025-03-29,Marketplace,Hyderabad,P1009,Watch,Accessories,5000,4,20000,473,44,Corporate,Net Banking,South
+ORD0555,2025-02-24,Store,Pune,P1010,Backpack,Accessories,1500,4,6000,481,16,Consumer,Net Banking,East
+ORD0556,2025-11-10,Marketplace,Pune,P1003,Headphones,Electronics,3000,1,3000,103,41,Consumer,UPI,East
+ORD0557,2025-01-27,Online,Bangalore,P1006,T-Shirt,Clothing,800,1,800,143,19,Corporate,Credit Card,West
+ORD0558,2025-01-11,Store,Pune,P1003,Headphones,Electronics,3000,4,12000,449,32,Consumer,Credit Card,North
+ORD0559,2025-01-24,Marketplace,Mumbai,P1004,Office Chair,Furniture,7000,4,28000,383,13,Home Office,Debit Card,East
+ORD0560,2025-12-09,Marketplace,Bangalore,P1002,Smartphone,Electronics,30000,2,60000,317,40,Corporate,UPI,South
+ORD0561,2025-01-28,Mobile App,Delhi,P1010,Backpack,Accessories,1500,2,3000,103,32,Home Office,Credit Card,South
+ORD0562,2025-07-26,Store,Bangalore,P1004,Office Chair,Furniture,7000,3,21000,107,33,Home Office,Debit Card,South
+ORD0563,2025-09-26,Mobile App,Mumbai,P1004,Office Chair,Furniture,7000,5,35000,190,13,Corporate,Debit Card,North
+ORD0564,2025-04-22,Online,Hyderabad,P1008,Sneakers,Footwear,3500,4,14000,159,41,Home Office,Debit Card,South
+ORD0565,2025-03-09,Store,Hyderabad,P1007,Jeans,Clothing,2000,4,8000,474,12,Home Office,Cash,West
+ORD0566,2025-11-11,Mobile App,Delhi,P1001,Laptop,Electronics,60000,2,120000,47,27,Home Office,Net Banking,East
+ORD0567,2025-10-25,Store,Delhi,P1001,Laptop,Electronics,60000,1,60000,281,30,Corporate,Debit Card,North
+ORD0568,2025-12-17,Mobile App,Hyderabad,P1008,Sneakers,Footwear,3500,5,17500,243,24,Home Office,Net Banking,South
+ORD0569,2025-06-18,Store,Hyderabad,P1005,Desk,Furniture,12000,1,12000,399,37,Consumer,UPI,West
+ORD0570,2025-08-03,Marketplace,Hyderabad,P1007,Jeans,Clothing,2000,1,2000,25,12,Corporate,Debit Card,West
+ORD0571,2025-03-07,Marketplace,Delhi,P1002,Smartphone,Electronics,30000,2,60000,36,16,Corporate,Debit Card,East
+ORD0572,2025-10-05,Online,Mumbai,P1006,T-Shirt,Clothing,800,3,2400,59,14,Corporate,Debit Card,West
+ORD0573,2025-11-17,Online,Mumbai,P1009,Watch,Accessories,5000,4,20000,329,45,Corporate,Net Banking,East
+ORD0574,2025-11-24,Marketplace,Hyderabad,P1006,T-Shirt,Clothing,800,3,2400,296,32,Consumer,UPI,West
+ORD0575,2025-11-11,Marketplace,Bangalore,P1009,Watch,Accessories,5000,4,20000,251,25,Home Office,Debit Card,East
+ORD0576,2025-07-07,Online,Hyderabad,P1006,T-Shirt,Clothing,800,4,3200,247,29,Consumer,Cash,West
+ORD0577,2025-07-01,Store,Bangalore,P1003,Headphones,Electronics,3000,2,6000,228,43,Home Office,Net Banking,North
+ORD0578,2025-02-20,Marketplace,Mumbai,P1007,Jeans,Clothing,2000,3,6000,383,44,Home Office,Credit Card,East
+ORD0579,2025-10-16,Mobile App,Mumbai,P1004,Office Chair,Furniture,7000,4,28000,369,26,Consumer,Cash,East
+ORD0580,2025-12-19,Mobile App,Delhi,P1006,T-Shirt,Clothing,800,3,2400,486,10,Home Office,Debit Card,East
+ORD0581,2025-07-15,Store,Bangalore,P1003,Headphones,Electronics,3000,3,9000,211,23,Corporate,Cash,South
+ORD0582,2025-08-23,Marketplace,Pune,P1009,Watch,Accessories,5000,4,20000,332,27,Home Office,Cash,East
+ORD0583,2025-03-31,Store,Pune,P1006,T-Shirt,Clothing,800,1,800,390,14,Home Office,UPI,North
+ORD0584,2025-08-14,Mobile App,Delhi,P1010,Backpack,Accessories,1500,3,4500,202,41,Consumer,UPI,South
+ORD0585,2025-05-27,Marketplace,Delhi,P1003,Headphones,Electronics,3000,3,9000,234,37,Corporate,Net Banking,East
+ORD0586,2025-08-04,Online,Delhi,P1004,Office Chair,Furniture,7000,1,7000,319,44,Consumer,Debit Card,East
+ORD0587,2025-06-16,Online,Mumbai,P1005,Desk,Furniture,12000,2,24000,139,21,Corporate,Credit Card,East
+ORD0588,2025-11-06,Mobile App,Delhi,P1008,Sneakers,Footwear,3500,1,3500,227,43,Home Office,Credit Card,West
+ORD0589,2025-08-15,Mobile App,Hyderabad,P1002,Smartphone,Electronics,30000,3,90000,394,45,Consumer,UPI,South
+ORD0590,2025-10-11,Mobile App,Delhi,P1010,Backpack,Accessories,1500,1,1500,428,23,Corporate,Credit Card,West
+ORD0591,2025-04-15,Marketplace,Pune,P1003,Headphones,Electronics,3000,4,12000,342,17,Home Office,Debit Card,West
+ORD0592,2025-07-08,Online,Pune,P1010,Backpack,Accessories,1500,1,1500,423,46,Consumer,Credit Card,East
+ORD0593,2025-01-24,Marketplace,Hyderabad,P1010,Backpack,Accessories,1500,2,3000,318,32,Home Office,UPI,North
+ORD0594,2025-10-01,Online,Pune,P1008,Sneakers,Footwear,3500,4,14000,211,27,Home Office,UPI,South
+ORD0595,2025-04-30,Online,Delhi,P1009,Watch,Accessories,5000,3,15000,278,37,Home Office,Credit Card,West
+ORD0596,2025-03-15,Store,Mumbai,P1003,Headphones,Electronics,3000,3,9000,197,36,Consumer,Debit Card,East
+ORD0597,2025-12-07,Mobile App,Pune,P1009,Watch,Accessories,5000,2,10000,472,36,Consumer,Net Banking,South
+ORD0598,2025-04-03,Mobile App,Pune,P1007,Jeans,Clothing,2000,1,2000,238,45,Home Office,UPI,South
+ORD0599,2025-07-13,Marketplace,Mumbai,P1007,Jeans,Clothing,2000,4,8000,465,25,Home Office,UPI,North
+ORD0600,2025-05-21,Online,Pune,P1001,Laptop,Electronics,60000,3,180000,247,36,Home Office,Debit Card,East
+ORD0601,2025-11-17,Mobile App,Pune,P1006,T-Shirt,Clothing,800,4,3200,425,33,Home Office,Debit Card,West
+ORD0602,2025-05-31,Marketplace,Delhi,P1006,T-Shirt,Clothing,800,3,2400,315,35,Corporate,UPI,West
+ORD0603,2025-08-10,Online,Bangalore,P1001,Laptop,Electronics,60000,1,60000,378,10,Home Office,Debit Card,East
+ORD0604,2025-08-20,Marketplace,Delhi,P1003,Headphones,Electronics,3000,1,3000,86,42,Consumer,UPI,North
+ORD0605,2025-08-23,Mobile App,Bangalore,P1003,Headphones,Electronics,3000,5,15000,418,14,Corporate,Cash,East
+ORD0606,2025-12-19,Store,Bangalore,P1007,Jeans,Clothing,2000,5,10000,340,42,Corporate,Net Banking,West
+ORD0607,2025-12-05,Online,Pune,P1001,Laptop,Electronics,60000,1,60000,272,16,Consumer,Debit Card,South
+ORD0608,2025-02-01,Store,Mumbai,P1008,Sneakers,Footwear,3500,3,10500,414,40,Consumer,Net Banking,East
+ORD0609,2025-07-10,Store,Delhi,P1010,Backpack,Accessories,1500,1,1500,43,28,Home Office,Debit Card,South
+ORD0610,2025-06-18,Mobile App,Pune,P1001,Laptop,Electronics,60000,5,300000,376,46,Consumer,Net Banking,East
+ORD0611,2025-05-26,Mobile App,Mumbai,P1007,Jeans,Clothing,2000,4,8000,352,38,Corporate,Net Banking,North
+ORD0612,2025-02-02,Online,Mumbai,P1004,Office Chair,Furniture,7000,4,28000,337,41,Home Office,UPI,South
+ORD0613,2025-11-07,Store,Pune,P1010,Backpack,Accessories,1500,4,6000,369,38,Corporate,Net Banking,East
+ORD0614,2025-03-08,Store,Bangalore,P1002,Smartphone,Electronics,30000,1,30000,233,16,Home Office,Debit Card,West
+ORD0615,2025-10-11,Store,Delhi,P1006,T-Shirt,Clothing,800,4,3200,401,50,Consumer,Net Banking,South
+ORD0616,2025-11-13,Online,Bangalore,P1004,Office Chair,Furniture,7000,3,21000,273,36,Home Office,UPI,North
+ORD0617,2025-03-28,Mobile App,Hyderabad,P1006,T-Shirt,Clothing,800,4,3200,386,46,Home Office,Credit Card,South
+ORD0618,2025-03-29,Store,Pune,P1006,T-Shirt,Clothing,800,2,1600,330,23,Consumer,Net Banking,North
+ORD0619,2025-04-18,Store,Mumbai,P1002,Smartphone,Electronics,30000,4,120000,43,44,Home Office,Net Banking,East
+ORD0620,2025-03-10,Mobile App,Delhi,P1007,Jeans,Clothing,2000,3,6000,455,26,Corporate,Credit Card,West
+ORD0621,2025-11-10,Store,Pune,P1004,Office Chair,Furniture,7000,1,7000,62,29,Consumer,Net Banking,West
+ORD0622,2025-04-13,Online,Bangalore,P1002,Smartphone,Electronics,30000,4,120000,408,39,Home Office,Cash,North
+ORD0623,2025-11-18,Online,Mumbai,P1004,Office Chair,Furniture,7000,1,7000,57,42,Consumer,Debit Card,North
+ORD0624,2025-03-01,Online,Pune,P1006,T-Shirt,Clothing,800,3,2400,452,19,Consumer,Debit Card,North
+ORD0625,2025-12-20,Marketplace,Hyderabad,P1010,Backpack,Accessories,1500,2,3000,422,24,Consumer,UPI,South
+ORD0626,2025-04-22,Mobile App,Mumbai,P1002,Smartphone,Electronics,30000,1,30000,44,14,Corporate,Credit Card,West
+ORD0627,2025-08-17,Online,Bangalore,P1008,Sneakers,Footwear,3500,3,10500,201,16,Home Office,Cash,North
+ORD0628,2025-02-13,Store,Mumbai,P1010,Backpack,Accessories,1500,1,1500,53,35,Corporate,Debit Card,West
+ORD0629,2025-10-02,Online,Hyderabad,P1001,Laptop,Electronics,60000,5,300000,154,35,Consumer,Cash,South
+ORD0630,2025-02-19,Online,Delhi,P1010,Backpack,Accessories,1500,4,6000,336,17,Home Office,Credit Card,North
+ORD0631,2025-03-26,Online,Hyderabad,P1006,T-Shirt,Clothing,800,4,3200,190,14,Corporate,Credit Card,East
+ORD0632,2025-01-14,Online,Delhi,P1007,Jeans,Clothing,2000,1,2000,167,24,Home Office,Net Banking,West
+ORD0633,2025-01-06,Store,Bangalore,P1003,Headphones,Electronics,3000,3,9000,433,49,Home Office,Net Banking,North
+ORD0634,2025-06-23,Marketplace,Delhi,P1001,Laptop,Electronics,60000,5,300000,69,46,Home Office,Credit Card,West
+ORD0635,2025-05-31,Marketplace,Bangalore,P1005,Desk,Furniture,12000,4,48000,88,26,Corporate,Cash,East
+ORD0636,2025-07-20,Mobile App,Pune,P1005,Desk,Furniture,12000,1,12000,240,48,Corporate,Cash,North
+ORD0637,2025-08-16,Store,Delhi,P1005,Desk,Furniture,12000,5,60000,22,49,Home Office,UPI,South
+ORD0638,2025-08-22,Online,Delhi,P1006,T-Shirt,Clothing,800,1,800,330,42,Home Office,Net Banking,South
+ORD0639,2025-02-16,Online,Bangalore,P1009,Watch,Accessories,5000,4,20000,460,43,Consumer,Cash,South
+ORD0640,2025-05-30,Marketplace,Delhi,P1009,Watch,Accessories,5000,4,20000,21,29,Corporate,Credit Card,South
+ORD0641,2025-10-19,Store,Pune,P1010,Backpack,Accessories,1500,1,1500,350,18,Consumer,Net Banking,West
+ORD0642,2025-11-18,Store,Bangalore,P1006,T-Shirt,Clothing,800,3,2400,58,42,Consumer,Net Banking,South
+ORD0643,2025-12-11,Mobile App,Bangalore,P1006,T-Shirt,Clothing,800,5,4000,369,33,Corporate,Debit Card,West
+ORD0644,2025-11-13,Mobile App,Delhi,P1009,Watch,Accessories,5000,1,5000,323,36,Corporate,Debit Card,North
+ORD0645,2025-05-02,Marketplace,Delhi,P1003,Headphones,Electronics,3000,1,3000,391,28,Home Office,Net Banking,North
+ORD0646,2025-12-28,Marketplace,Hyderabad,P1008,Sneakers,Footwear,3500,1,3500,349,38,Corporate,Net Banking,East
+ORD0647,2025-07-24,Marketplace,Hyderabad,P1008,Sneakers,Footwear,3500,3,10500,82,37,Home Office,UPI,West
+ORD0648,2025-01-22,Mobile App,Mumbai,P1010,Backpack,Accessories,1500,1,1500,194,10,Corporate,Cash,South
+ORD0649,2025-09-08,Mobile App,Pune,P1010,Backpack,Accessories,1500,5,7500,220,29,Corporate,UPI,East
+ORD0650,2025-07-01,Mobile App,Pune,P1010,Backpack,Accessories,1500,3,4500,289,37,Consumer,UPI,North
+ORD0651,2025-04-21,Mobile App,Mumbai,P1003,Headphones,Electronics,3000,5,15000,375,20,Home Office,UPI,South
+ORD0652,2025-08-22,Marketplace,Hyderabad,P1007,Jeans,Clothing,2000,2,4000,91,30,Corporate,Credit Card,South
+ORD0653,2025-05-23,Mobile App,Pune,P1005,Desk,Furniture,12000,1,12000,212,29,Consumer,UPI,South
+ORD0654,2025-12-28,Store,Mumbai,P1008,Sneakers,Footwear,3500,1,3500,325,36,Consumer,UPI,West
+ORD0655,2025-01-08,Marketplace,Bangalore,P1003,Headphones,Electronics,3000,2,6000,112,32,Home Office,UPI,South
+ORD0656,2025-07-05,Store,Pune,P1005,Desk,Furniture,12000,5,60000,261,21,Corporate,Debit Card,South
+ORD0657,2025-04-07,Store,Mumbai,P1001,Laptop,Electronics,60000,3,180000,166,32,Consumer,UPI,North
+ORD0658,2025-09-09,Marketplace,Hyderabad,P1003,Headphones,Electronics,3000,4,12000,128,13,Consumer,Credit Card,South
+ORD0659,2025-10-27,Store,Pune,P1009,Watch,Accessories,5000,2,10000,232,27,Home Office,Credit Card,North
+ORD0660,2025-08-16,Store,Delhi,P1008,Sneakers,Footwear,3500,4,14000,85,50,Home Office,Cash,North
+ORD0661,2025-08-20,Marketplace,Delhi,P1010,Backpack,Accessories,1500,4,6000,273,39,Home Office,Cash,East
+ORD0662,2025-12-03,Store,Bangalore,P1004,Office Chair,Furniture,7000,5,35000,396,18,Home Office,Net Banking,East
+ORD0663,2025-07-08,Store,Hyderabad,P1003,Headphones,Electronics,3000,1,3000,205,22,Corporate,Net Banking,East
+ORD0664,2025-09-17,Mobile App,Bangalore,P1006,T-Shirt,Clothing,800,3,2400,199,24,Home Office,Cash,North
+ORD0665,2025-09-29,Mobile App,Bangalore,P1003,Headphones,Electronics,3000,5,15000,376,29,Corporate,Credit Card,North
+ORD0666,2025-10-30,Marketplace,Pune,P1009,Watch,Accessories,5000,1,5000,264,22,Home Office,Debit Card,East
+ORD0667,2025-11-27,Store,Bangalore,P1010,Backpack,Accessories,1500,1,1500,37,19,Consumer,Net Banking,North
+ORD0668,2025-09-01,Mobile App,Mumbai,P1007,Jeans,Clothing,2000,5,10000,361,39,Home Office,Credit Card,North
+ORD0669,2025-06-12,Mobile App,Hyderabad,P1009,Watch,Accessories,5000,4,20000,236,41,Corporate,Debit Card,North
+ORD0670,2025-10-13,Online,Mumbai,P1002,Smartphone,Electronics,30000,3,90000,342,17,Consumer,UPI,West
+ORD0671,2025-07-31,Marketplace,Hyderabad,P1008,Sneakers,Footwear,3500,4,14000,260,33,Home Office,UPI,North
+ORD0672,2025-03-15,Online,Pune,P1002,Smartphone,Electronics,30000,1,30000,328,33,Home Office,Credit Card,South
+ORD0673,2025-03-23,Online,Bangalore,P1001,Laptop,Electronics,60000,4,240000,93,27,Home Office,UPI,South
+ORD0674,2025-10-17,Store,Mumbai,P1010,Backpack,Accessories,1500,1,1500,352,33,Consumer,Credit Card,South
+ORD0675,2025-07-22,Marketplace,Mumbai,P1005,Desk,Furniture,12000,2,24000,259,12,Corporate,Credit Card,West
+ORD0676,2025-05-30,Marketplace,Hyderabad,P1005,Desk,Furniture,12000,2,24000,441,44,Consumer,Net Banking,East
+ORD0677,2025-10-25,Store,Bangalore,P1008,Sneakers,Footwear,3500,3,10500,464,44,Consumer,Cash,North
+ORD0678,2025-10-05,Mobile App,Mumbai,P1007,Jeans,Clothing,2000,4,8000,497,36,Home Office,Credit Card,West
+ORD0679,2025-09-03,Mobile App,Mumbai,P1009,Watch,Accessories,5000,5,25000,40,18,Home Office,Debit Card,East
+ORD0680,2025-08-21,Marketplace,Pune,P1002,Smartphone,Electronics,30000,1,30000,197,12,Consumer,Credit Card,South
+ORD0681,2025-05-23,Mobile App,Bangalore,P1007,Jeans,Clothing,2000,2,4000,492,38,Home Office,Net Banking,West
+ORD0682,2025-11-27,Marketplace,Delhi,P1007,Jeans,Clothing,2000,4,8000,329,43,Home Office,Credit Card,West
+ORD0683,2025-12-21,Store,Hyderabad,P1008,Sneakers,Footwear,3500,4,14000,101,35,Home Office,UPI,South
+ORD0684,2025-07-14,Mobile App,Mumbai,P1009,Watch,Accessories,5000,5,25000,87,45,Consumer,UPI,South
+ORD0685,2025-09-22,Marketplace,Hyderabad,P1005,Desk,Furniture,12000,2,24000,67,34,Corporate,Net Banking,South
+ORD0686,2025-04-07,Marketplace,Delhi,P1004,Office Chair,Furniture,7000,1,7000,211,20,Corporate,UPI,South
+ORD0687,2025-10-07,Online,Bangalore,P1005,Desk,Furniture,12000,4,48000,180,37,Home Office,UPI,South
+ORD0688,2025-07-22,Store,Mumbai,P1007,Jeans,Clothing,2000,5,10000,21,19,Corporate,Credit Card,West
+ORD0689,2025-05-16,Online,Pune,P1001,Laptop,Electronics,60000,2,120000,281,21,Corporate,UPI,East
+ORD0690,2025-04-10,Mobile App,Pune,P1001,Laptop,Electronics,60000,3,180000,352,33,Home Office,Debit Card,North
+ORD0691,2025-02-02,Online,Bangalore,P1008,Sneakers,Footwear,3500,5,17500,132,40,Home Office,UPI,South
+ORD0692,2025-11-20,Online,Hyderabad,P1010,Backpack,Accessories,1500,5,7500,225,40,Home Office,Debit Card,West
+ORD0693,2025-03-03,Store,Hyderabad,P1003,Headphones,Electronics,3000,1,3000,98,32,Corporate,Debit Card,North
+ORD0694,2025-07-16,Marketplace,Delhi,P1001,Laptop,Electronics,60000,2,120000,331,21,Home Office,Net Banking,North
+ORD0695,2025-06-16,Mobile App,Delhi,P1007,Jeans,Clothing,2000,3,6000,499,28,Consumer,UPI,West
+ORD0696,2025-10-05,Online,Delhi,P1009,Watch,Accessories,5000,1,5000,378,27,Home Office,Credit Card,East
+ORD0697,2025-11-29,Online,Delhi,P1009,Watch,Accessories,5000,5,25000,320,21,Corporate,Debit Card,East
+ORD0698,2025-03-25,Store,Mumbai,P1001,Laptop,Electronics,60000,5,300000,154,35,Consumer,UPI,South
+ORD0699,2025-03-20,Mobile App,Bangalore,P1005,Desk,Furniture,12000,3,36000,95,15,Corporate,Net Banking,West
+ORD0700,2025-09-12,Marketplace,Mumbai,P1008,Sneakers,Footwear,3500,3,10500,404,36,Home Office,UPI,East
+ORD0701,2025-06-16,Mobile App,Pune,P1004,Office Chair,Furniture,7000,2,14000,77,50,Home Office,Net Banking,West
+ORD0702,2025-12-29,Online,Hyderabad,P1007,Jeans,Clothing,2000,4,8000,410,50,Home Office,UPI,East
+ORD0703,2025-11-30,Marketplace,Delhi,P1009,Watch,Accessories,5000,2,10000,198,11,Consumer,Credit Card,South
+ORD0704,2025-11-06,Marketplace,Delhi,P1006,T-Shirt,Clothing,800,4,3200,129,35,Consumer,Cash,North
+ORD0705,2025-08-11,Mobile App,Bangalore,P1005,Desk,Furniture,12000,2,24000,86,10,Corporate,UPI,West
+ORD0706,2025-12-07,Store,Mumbai,P1001,Laptop,Electronics,60000,4,240000,397,28,Consumer,Credit Card,East
+ORD0707,2025-05-01,Marketplace,Hyderabad,P1005,Desk,Furniture,12000,2,24000,330,17,Consumer,Credit Card,East
+ORD0708,2025-09-10,Marketplace,Delhi,P1006,T-Shirt,Clothing,800,2,1600,49,27,Corporate,Cash,West
+ORD0709,2025-09-27,Marketplace,Pune,P1001,Laptop,Electronics,60000,3,180000,108,19,Consumer,Credit Card,South
+ORD0710,2025-10-02,Store,Mumbai,P1004,Office Chair,Furniture,7000,1,7000,450,49,Corporate,Net Banking,North
+ORD0711,2025-04-15,Mobile App,Bangalore,P1002,Smartphone,Electronics,30000,2,60000,54,43,Consumer,Cash,North
+ORD0712,2025-08-25,Online,Mumbai,P1004,Office Chair,Furniture,7000,4,28000,284,25,Home Office,Credit Card,West
+ORD0713,2025-04-30,Mobile App,Mumbai,P1003,Headphones,Electronics,3000,5,15000,216,14,Corporate,Cash,West
+ORD0714,2025-07-28,Online,Mumbai,P1004,Office Chair,Furniture,7000,5,35000,455,34,Consumer,Debit Card,East
+ORD0715,2025-11-16,Store,Pune,P1004,Office Chair,Furniture,7000,4,28000,443,32,Consumer,Net Banking,North
+ORD0716,2025-12-01,Online,Delhi,P1001,Laptop,Electronics,60000,5,300000,267,29,Home Office,UPI,East
+ORD0717,2025-06-29,Mobile App,Hyderabad,P1003,Headphones,Electronics,3000,4,12000,354,18,Home Office,Cash,North
+ORD0718,2025-12-18,Marketplace,Mumbai,P1006,T-Shirt,Clothing,800,4,3200,128,14,Corporate,Credit Card,North
+ORD0719,2025-07-31,Marketplace,Mumbai,P1002,Smartphone,Electronics,30000,3,90000,234,30,Consumer,Credit Card,West
+ORD0720,2025-07-19,Store,Pune,P1004,Office Chair,Furniture,7000,3,21000,414,18,Home Office,Debit Card,East
+ORD0721,2025-09-22,Store,Mumbai,P1004,Office Chair,Furniture,7000,4,28000,269,23,Home Office,Debit Card,South
+ORD0722,2025-03-11,Store,Hyderabad,P1003,Headphones,Electronics,3000,5,15000,331,14,Corporate,UPI,East
+ORD0723,2025-09-22,Online,Delhi,P1002,Smartphone,Electronics,30000,3,90000,278,23,Home Office,UPI,South
+ORD0724,2025-03-06,Store,Bangalore,P1006,T-Shirt,Clothing,800,4,3200,375,27,Consumer,Credit Card,West
+ORD0725,2025-09-24,Store,Delhi,P1007,Jeans,Clothing,2000,5,10000,67,37,Consumer,Credit Card,South
+ORD0726,2025-12-30,Online,Pune,P1003,Headphones,Electronics,3000,1,3000,307,30,Corporate,Cash,South
+ORD0727,2025-11-26,Online,Delhi,P1001,Laptop,Electronics,60000,3,180000,489,47,Consumer,UPI,East
+ORD0728,2025-08-31,Online,Hyderabad,P1004,Office Chair,Furniture,7000,2,14000,296,44,Corporate,Debit Card,East
+ORD0729,2025-07-28,Mobile App,Hyderabad,P1006,T-Shirt,Clothing,800,1,800,343,29,Home Office,Debit Card,North
+ORD0730,2025-05-21,Online,Mumbai,P1010,Backpack,Accessories,1500,3,4500,182,31,Consumer,Cash,West
+ORD0731,2025-10-13,Online,Mumbai,P1007,Jeans,Clothing,2000,1,2000,110,26,Home Office,UPI,West
+ORD0732,2025-11-21,Store,Pune,P1006,T-Shirt,Clothing,800,1,800,358,11,Corporate,Cash,West
+ORD0733,2025-01-05,Store,Hyderabad,P1002,Smartphone,Electronics,30000,3,90000,130,12,Corporate,Credit Card,South
+ORD0734,2025-07-04,Store,Mumbai,P1004,Office Chair,Furniture,7000,4,28000,123,40,Corporate,Debit Card,North
+ORD0735,2025-08-25,Marketplace,Hyderabad,P1007,Jeans,Clothing,2000,4,8000,95,46,Consumer,Cash,West
+ORD0736,2025-09-14,Online,Pune,P1006,T-Shirt,Clothing,800,3,2400,467,25,Home Office,Cash,East
+ORD0737,2025-08-01,Online,Bangalore,P1006,T-Shirt,Clothing,800,5,4000,22,33,Corporate,Credit Card,South
+ORD0738,2025-12-20,Marketplace,Delhi,P1007,Jeans,Clothing,2000,4,8000,394,26,Corporate,Cash,South
+ORD0739,2025-07-23,Marketplace,Bangalore,P1004,Office Chair,Furniture,7000,4,28000,252,28,Consumer,Debit Card,East
+ORD0740,2025-04-05,Store,Pune,P1006,T-Shirt,Clothing,800,4,3200,433,27,Consumer,Cash,South
+ORD0741,2025-08-23,Online,Delhi,P1004,Office Chair,Furniture,7000,4,28000,338,50,Corporate,Net Banking,West
+ORD0742,2025-09-01,Marketplace,Pune,P1002,Smartphone,Electronics,30000,1,30000,170,24,Consumer,Debit Card,North
+ORD0743,2025-11-01,Marketplace,Hyderabad,P1004,Office Chair,Furniture,7000,5,35000,206,48,Home Office,Cash,South
+ORD0744,2025-08-13,Online,Pune,P1010,Backpack,Accessories,1500,4,6000,361,16,Home Office,Net Banking,North
+ORD0745,2025-12-04,Store,Pune,P1004,Office Chair,Furniture,7000,3,21000,213,13,Consumer,Net Banking,West
+ORD0746,2025-12-10,Online,Pune,P1009,Watch,Accessories,5000,1,5000,203,47,Home Office,Cash,West
+ORD0747,2025-04-25,Store,Hyderabad,P1010,Backpack,Accessories,1500,2,3000,39,26,Corporate,Debit Card,North
+ORD0748,2025-09-12,Online,Pune,P1008,Sneakers,Footwear,3500,3,10500,288,46,Home Office,UPI,East
+ORD0749,2025-12-25,Online,Pune,P1007,Jeans,Clothing,2000,2,4000,72,46,Home Office,Cash,North
+ORD0750,2025-03-23,Online,Pune,P1005,Desk,Furniture,12000,4,48000,399,49,Consumer,Net Banking,South
+ORD0751,2025-02-24,Mobile App,Hyderabad,P1003,Headphones,Electronics,3000,1,3000,473,27,Corporate,Debit Card,West
+ORD0752,2025-07-12,Store,Bangalore,P1005,Desk,Furniture,12000,5,60000,53,17,Home Office,Cash,West
+ORD0753,2025-12-04,Store,Hyderabad,P1010,Backpack,Accessories,1500,1,1500,193,19,Home Office,Debit Card,East
+ORD0754,2025-11-01,Online,Mumbai,P1010,Backpack,Accessories,1500,3,4500,483,27,Corporate,Cash,North
+ORD0755,2025-09-08,Mobile App,Bangalore,P1007,Jeans,Clothing,2000,3,6000,78,24,Home Office,UPI,South
+ORD0756,2025-03-28,Online,Mumbai,P1003,Headphones,Electronics,3000,3,9000,164,43,Consumer,Credit Card,North
+ORD0757,2025-05-28,Store,Pune,P1001,Laptop,Electronics,60000,4,240000,348,43,Consumer,UPI,West
+ORD0758,2025-08-17,Marketplace,Bangalore,P1001,Laptop,Electronics,60000,4,240000,383,48,Home Office,Credit Card,North
+ORD0759,2025-06-07,Online,Hyderabad,P1001,Laptop,Electronics,60000,2,120000,212,22,Home Office,Cash,West
+ORD0760,2025-08-05,Mobile App,Mumbai,P1009,Watch,Accessories,5000,5,25000,57,45,Home Office,Debit Card,West
+ORD0761,2025-09-23,Online,Delhi,P1009,Watch,Accessories,5000,4,20000,135,46,Home Office,Debit Card,East
+ORD0762,2025-04-25,Marketplace,Delhi,P1001,Laptop,Electronics,60000,2,120000,20,35,Corporate,Credit Card,West
+ORD0763,2025-03-18,Store,Pune,P1008,Sneakers,Footwear,3500,4,14000,162,16,Consumer,Credit Card,North
+ORD0764,2025-10-07,Marketplace,Bangalore,P1007,Jeans,Clothing,2000,5,10000,154,16,Corporate,Cash,South
+ORD0765,2025-07-20,Mobile App,Pune,P1007,Jeans,Clothing,2000,3,6000,475,42,Corporate,Debit Card,South
+ORD0766,2025-04-23,Store,Delhi,P1007,Jeans,Clothing,2000,1,2000,330,21,Corporate,Debit Card,West
+ORD0767,2025-10-21,Store,Mumbai,P1007,Jeans,Clothing,2000,5,10000,324,11,Corporate,Cash,North
+ORD0768,2025-07-26,Store,Delhi,P1008,Sneakers,Footwear,3500,3,10500,132,26,Corporate,Debit Card,East
+ORD0769,2025-09-04,Online,Delhi,P1006,T-Shirt,Clothing,800,5,4000,491,25,Corporate,Net Banking,East
+ORD0770,2025-12-02,Online,Delhi,P1010,Backpack,Accessories,1500,2,3000,359,17,Corporate,Debit Card,West
+ORD0771,2025-12-08,Marketplace,Pune,P1005,Desk,Furniture,12000,4,48000,365,49,Corporate,Debit Card,West
+ORD0772,2025-04-17,Store,Hyderabad,P1008,Sneakers,Footwear,3500,2,7000,226,49,Corporate,Net Banking,East
+ORD0773,2025-01-03,Store,Bangalore,P1005,Desk,Furniture,12000,5,60000,275,14,Home Office,Net Banking,East
+ORD0774,2025-05-15,Mobile App,Hyderabad,P1004,Office Chair,Furniture,7000,4,28000,155,33,Corporate,Credit Card,West
+ORD0775,2025-12-30,Store,Pune,P1002,Smartphone,Electronics,30000,2,60000,126,31,Corporate,Debit Card,East
+ORD0776,2025-12-21,Online,Mumbai,P1003,Headphones,Electronics,3000,2,6000,297,47,Corporate,Cash,East
+ORD0777,2025-01-02,Mobile App,Hyderabad,P1006,T-Shirt,Clothing,800,4,3200,363,21,Consumer,Credit Card,North
+ORD0778,2025-04-18,Marketplace,Bangalore,P1007,Jeans,Clothing,2000,2,4000,330,33,Home Office,UPI,East
+ORD0779,2025-10-26,Marketplace,Hyderabad,P1002,Smartphone,Electronics,30000,1,30000,427,12,Consumer,Debit Card,East
+ORD0780,2025-05-09,Store,Pune,P1004,Office Chair,Furniture,7000,2,14000,341,29,Home Office,Cash,North
+ORD0781,2025-01-05,Store,Mumbai,P1010,Backpack,Accessories,1500,4,6000,500,42,Consumer,Cash,West
+ORD0782,2025-07-05,Mobile App,Mumbai,P1009,Watch,Accessories,5000,3,15000,325,48,Corporate,Debit Card,South
+ORD0783,2025-08-19,Store,Pune,P1004,Office Chair,Furniture,7000,5,35000,212,35,Corporate,Debit Card,East
+ORD0784,2025-05-28,Store,Delhi,P1009,Watch,Accessories,5000,1,5000,38,11,Consumer,Debit Card,West
+ORD0785,2025-10-11,Store,Hyderabad,P1004,Office Chair,Furniture,7000,4,28000,344,40,Corporate,Net Banking,East
+ORD0786,2025-05-26,Marketplace,Delhi,P1004,Office Chair,Furniture,7000,2,14000,470,21,Consumer,Cash,North
+ORD0787,2025-05-29,Mobile App,Pune,P1004,Office Chair,Furniture,7000,5,35000,145,28,Home Office,UPI,West
+ORD0788,2025-06-09,Marketplace,Pune,P1004,Office Chair,Furniture,7000,4,28000,410,23,Home Office,Credit Card,West
+ORD0789,2025-02-09,Mobile App,Hyderabad,P1001,Laptop,Electronics,60000,5,300000,306,33,Home Office,Debit Card,South
+ORD0790,2025-10-26,Mobile App,Pune,P1001,Laptop,Electronics,60000,2,120000,302,13,Corporate,UPI,East
+ORD0791,2025-06-17,Mobile App,Mumbai,P1008,Sneakers,Footwear,3500,3,10500,454,12,Corporate,UPI,East
+ORD0792,2025-01-15,Mobile App,Pune,P1005,Desk,Furniture,12000,3,36000,382,35,Corporate,Net Banking,North
+ORD0793,2025-01-08,Mobile App,Mumbai,P1005,Desk,Furniture,12000,1,12000,35,43,Consumer,Cash,South
+ORD0794,2025-03-09,Online,Bangalore,P1001,Laptop,Electronics,60000,3,180000,62,36,Home Office,Debit Card,West
+ORD0795,2025-06-07,Online,Bangalore,P1008,Sneakers,Footwear,3500,3,10500,80,21,Corporate,Debit Card,West
+ORD0796,2025-03-09,Marketplace,Delhi,P1004,Office Chair,Furniture,7000,1,7000,264,44,Consumer,Net Banking,East
+ORD0797,2025-11-26,Marketplace,Mumbai,P1002,Smartphone,Electronics,30000,2,60000,146,16,Home Office,Cash,East
+ORD0798,2025-12-24,Marketplace,Mumbai,P1010,Backpack,Accessories,1500,2,3000,66,36,Corporate,Debit Card,South
+ORD0799,2025-11-17,Online,Hyderabad,P1007,Jeans,Clothing,2000,1,2000,475,43,Corporate,Debit Card,East
+ORD0800,2025-07-01,Store,Hyderabad,P1009,Watch,Accessories,5000,1,5000,462,16,Corporate,Credit Card,South
+ORD0801,2025-02-08,Marketplace,Pune,P1010,Backpack,Accessories,1500,4,6000,347,39,Consumer,Net Banking,East
+ORD0802,2025-10-23,Marketplace,Mumbai,P1009,Watch,Accessories,5000,1,5000,333,45,Consumer,Net Banking,West
+ORD0803,2025-09-14,Online,Hyderabad,P1001,Laptop,Electronics,60000,5,300000,408,12,Home Office,Credit Card,West
+ORD0804,2025-07-31,Online,Pune,P1006,T-Shirt,Clothing,800,1,800,314,30,Consumer,Debit Card,North
+ORD0805,2025-07-25,Online,Hyderabad,P1008,Sneakers,Footwear,3500,1,3500,249,43,Corporate,Debit Card,East
+ORD0806,2025-12-08,Mobile App,Mumbai,P1009,Watch,Accessories,5000,3,15000,497,10,Consumer,UPI,East
+ORD0807,2025-10-16,Store,Bangalore,P1008,Sneakers,Footwear,3500,1,3500,423,35,Home Office,Cash,West
+ORD0808,2025-06-24,Marketplace,Delhi,P1006,T-Shirt,Clothing,800,5,4000,378,14,Corporate,Credit Card,North
+ORD0809,2025-05-17,Online,Delhi,P1005,Desk,Furniture,12000,5,60000,77,50,Home Office,Debit Card,North
+ORD0810,2025-06-22,Mobile App,Pune,P1006,T-Shirt,Clothing,800,4,3200,225,26,Corporate,Net Banking,East
+ORD0811,2025-03-13,Mobile App,Mumbai,P1001,Laptop,Electronics,60000,4,240000,54,34,Corporate,UPI,West
+ORD0812,2025-05-20,Mobile App,Hyderabad,P1009,Watch,Accessories,5000,1,5000,217,12,Home Office,UPI,North
+ORD0813,2025-05-06,Store,Bangalore,P1007,Jeans,Clothing,2000,5,10000,73,48,Corporate,Debit Card,North
+ORD0814,2025-09-01,Store,Mumbai,P1010,Backpack,Accessories,1500,5,7500,146,29,Home Office,UPI,West
+ORD0815,2025-03-04,Mobile App,Hyderabad,P1002,Smartphone,Electronics,30000,1,30000,209,41,Corporate,Cash,East
+ORD0816,2025-06-21,Store,Delhi,P1007,Jeans,Clothing,2000,4,8000,243,34,Consumer,Cash,South
+ORD0817,2025-12-15,Marketplace,Delhi,P1008,Sneakers,Footwear,3500,1,3500,122,24,Corporate,UPI,West
+ORD0818,2025-06-13,Mobile App,Delhi,P1008,Sneakers,Footwear,3500,4,14000,299,46,Corporate,Credit Card,North
+ORD0819,2025-11-03,Mobile App,Bangalore,P1008,Sneakers,Footwear,3500,5,17500,73,28,Home Office,Cash,South
+ORD0820,2025-10-23,Online,Hyderabad,P1007,Jeans,Clothing,2000,2,4000,229,43,Home Office,UPI,North
+ORD0821,2025-12-29,Marketplace,Bangalore,P1005,Desk,Furniture,12000,3,36000,82,22,Corporate,UPI,North
+ORD0822,2025-05-12,Store,Hyderabad,P1006,T-Shirt,Clothing,800,4,3200,462,15,Home Office,Credit Card,East
+ORD0823,2025-06-06,Store,Hyderabad,P1003,Headphones,Electronics,3000,3,9000,95,45,Home Office,UPI,East
+ORD0824,2025-11-09,Store,Pune,P1003,Headphones,Electronics,3000,1,3000,275,34,Corporate,Cash,South
+ORD0825,2025-06-18,Mobile App,Delhi,P1002,Smartphone,Electronics,30000,2,60000,476,31,Home Office,Debit Card,West
+ORD0826,2025-01-03,Marketplace,Pune,P1005,Desk,Furniture,12000,3,36000,38,40,Consumer,Cash,East
+ORD0827,2025-04-06,Online,Hyderabad,P1010,Backpack,Accessories,1500,4,6000,446,10,Corporate,Net Banking,West
+ORD0828,2025-02-02,Store,Pune,P1002,Smartphone,Electronics,30000,2,60000,35,24,Consumer,Debit Card,East
+ORD0829,2025-02-07,Online,Bangalore,P1005,Desk,Furniture,12000,5,60000,256,34,Consumer,Net Banking,North
+ORD0830,2025-03-13,Store,Hyderabad,P1005,Desk,Furniture,12000,4,48000,147,26,Home Office,Net Banking,East
+ORD0831,2025-03-02,Store,Pune,P1005,Desk,Furniture,12000,2,24000,112,49,Home Office,Cash,East
+ORD0832,2025-05-25,Store,Bangalore,P1009,Watch,Accessories,5000,5,25000,208,37,Consumer,Debit Card,West
+ORD0833,2025-11-08,Online,Delhi,P1002,Smartphone,Electronics,30000,5,150000,444,15,Home Office,Cash,North
+ORD0834,2025-09-18,Store,Hyderabad,P1003,Headphones,Electronics,3000,5,15000,46,30,Corporate,UPI,East
+ORD0835,2025-12-27,Marketplace,Bangalore,P1001,Laptop,Electronics,60000,2,120000,86,27,Home Office,Net Banking,East
+ORD0836,2025-02-21,Marketplace,Pune,P1007,Jeans,Clothing,2000,5,10000,293,20,Corporate,Net Banking,South
+ORD0837,2025-02-06,Online,Mumbai,P1010,Backpack,Accessories,1500,1,1500,65,16,Home Office,Credit Card,East
+ORD0838,2025-07-01,Marketplace,Bangalore,P1003,Headphones,Electronics,3000,3,9000,269,23,Corporate,UPI,East
+ORD0839,2025-02-21,Store,Bangalore,P1007,Jeans,Clothing,2000,3,6000,160,35,Home Office,Cash,East
+ORD0840,2025-12-26,Online,Delhi,P1006,T-Shirt,Clothing,800,3,2400,459,33,Consumer,Net Banking,South
+ORD0841,2025-06-04,Mobile App,Mumbai,P1007,Jeans,Clothing,2000,2,4000,330,17,Consumer,UPI,North
+ORD0842,2025-02-24,Online,Pune,P1005,Desk,Furniture,12000,3,36000,385,11,Consumer,UPI,West
+ORD0843,2025-01-17,Online,Bangalore,P1004,Office Chair,Furniture,7000,1,7000,241,50,Consumer,Debit Card,North
+ORD0844,2025-06-06,Marketplace,Hyderabad,P1001,Laptop,Electronics,60000,4,240000,485,16,Corporate,Debit Card,South
+ORD0845,2025-08-21,Mobile App,Delhi,P1008,Sneakers,Footwear,3500,4,14000,89,27,Home Office,Debit Card,North
+ORD0846,2025-04-15,Mobile App,Bangalore,P1008,Sneakers,Footwear,3500,2,7000,24,10,Home Office,Net Banking,West
+ORD0847,2025-01-19,Store,Pune,P1008,Sneakers,Footwear,3500,3,10500,235,29,Home Office,Debit Card,West
+ORD0848,2025-05-12,Online,Bangalore,P1009,Watch,Accessories,5000,5,25000,177,13,Consumer,Cash,North
+ORD0849,2025-06-10,Mobile App,Delhi,P1001,Laptop,Electronics,60000,1,60000,65,29,Corporate,Net Banking,West
+ORD0850,2025-07-13,Marketplace,Pune,P1001,Laptop,Electronics,60000,1,60000,419,15,Consumer,Cash,East
+ORD0851,2025-04-06,Store,Bangalore,P1007,Jeans,Clothing,2000,3,6000,441,22,Corporate,Net Banking,North
+ORD0852,2025-01-07,Online,Delhi,P1004,Office Chair,Furniture,7000,4,28000,327,33,Home Office,Credit Card,North
+ORD0853,2025-12-19,Marketplace,Hyderabad,P1009,Watch,Accessories,5000,3,15000,298,14,Home Office,Net Banking,West
+ORD0854,2025-11-12,Store,Delhi,P1001,Laptop,Electronics,60000,4,240000,438,28,Corporate,Credit Card,East
+ORD0855,2025-12-08,Marketplace,Pune,P1007,Jeans,Clothing,2000,5,10000,145,21,Corporate,UPI,North
+ORD0856,2025-11-23,Store,Bangalore,P1004,Office Chair,Furniture,7000,3,21000,469,20,Corporate,UPI,South
+ORD0857,2025-10-26,Online,Delhi,P1008,Sneakers,Footwear,3500,5,17500,73,28,Corporate,Cash,North
+ORD0858,2025-02-08,Store,Hyderabad,P1005,Desk,Furniture,12000,1,12000,308,15,Consumer,Net Banking,South
+ORD0859,2025-11-29,Online,Delhi,P1002,Smartphone,Electronics,30000,3,90000,84,36,Corporate,Debit Card,North
+ORD0860,2025-04-13,Online,Pune,P1004,Office Chair,Furniture,7000,4,28000,247,37,Consumer,UPI,East
+ORD0861,2025-02-04,Mobile App,Hyderabad,P1010,Backpack,Accessories,1500,3,4500,80,12,Consumer,Debit Card,West
+ORD0862,2025-01-30,Marketplace,Hyderabad,P1008,Sneakers,Footwear,3500,1,3500,436,47,Consumer,UPI,West
+ORD0863,2025-11-23,Online,Pune,P1009,Watch,Accessories,5000,5,25000,137,24,Home Office,Debit Card,East
+ORD0864,2025-01-02,Online,Hyderabad,P1005,Desk,Furniture,12000,3,36000,389,16,Home Office,Credit Card,West
+ORD0865,2025-09-23,Online,Delhi,P1005,Desk,Furniture,12000,1,12000,77,31,Home Office,Net Banking,East
+ORD0866,2025-03-01,Store,Delhi,P1008,Sneakers,Footwear,3500,5,17500,143,16,Home Office,Debit Card,North
+ORD0867,2025-06-11,Store,Bangalore,P1005,Desk,Furniture,12000,5,60000,440,37,Home Office,UPI,South
+ORD0868,2025-11-04,Mobile App,Pune,P1010,Backpack,Accessories,1500,4,6000,379,12,Consumer,Credit Card,South
+ORD0869,2025-09-08,Online,Hyderabad,P1010,Backpack,Accessories,1500,2,3000,178,19,Consumer,UPI,West
+ORD0870,2025-04-20,Mobile App,Delhi,P1009,Watch,Accessories,5000,4,20000,341,19,Consumer,Credit Card,West
+ORD0871,2025-09-17,Marketplace,Delhi,P1009,Watch,Accessories,5000,5,25000,455,31,Corporate,Net Banking,South
+ORD0872,2025-07-19,Marketplace,Pune,P1007,Jeans,Clothing,2000,4,8000,223,40,Home Office,Cash,East
+ORD0873,2025-01-04,Marketplace,Hyderabad,P1004,Office Chair,Furniture,7000,3,21000,71,27,Corporate,Credit Card,West
+ORD0874,2025-06-01,Store,Delhi,P1004,Office Chair,Furniture,7000,1,7000,348,20,Consumer,Net Banking,North
+ORD0875,2025-10-30,Mobile App,Bangalore,P1003,Headphones,Electronics,3000,1,3000,481,18,Corporate,Cash,East
+ORD0876,2025-06-15,Mobile App,Hyderabad,P1003,Headphones,Electronics,3000,3,9000,154,44,Home Office,Net Banking,West
+ORD0877,2025-07-19,Mobile App,Bangalore,P1010,Backpack,Accessories,1500,4,6000,387,31,Corporate,Cash,West
+ORD0878,2025-02-22,Marketplace,Hyderabad,P1009,Watch,Accessories,5000,4,20000,394,24,Consumer,Cash,East
+ORD0879,2025-09-27,Marketplace,Hyderabad,P1005,Desk,Furniture,12000,3,36000,327,43,Home Office,Debit Card,North
+ORD0880,2025-06-20,Store,Bangalore,P1004,Office Chair,Furniture,7000,1,7000,32,30,Home Office,Debit Card,South
+ORD0881,2025-01-30,Online,Bangalore,P1007,Jeans,Clothing,2000,2,4000,185,33,Home Office,Credit Card,South
+ORD0882,2025-09-07,Store,Bangalore,P1001,Laptop,Electronics,60000,2,120000,20,48,Corporate,UPI,East
+ORD0883,2025-02-26,Online,Bangalore,P1003,Headphones,Electronics,3000,2,6000,165,26,Home Office,Debit Card,North
+ORD0884,2025-05-28,Mobile App,Hyderabad,P1003,Headphones,Electronics,3000,3,9000,322,13,Home Office,Net Banking,South
+ORD0885,2025-12-15,Marketplace,Delhi,P1010,Backpack,Accessories,1500,2,3000,414,30,Corporate,Cash,North
+ORD0886,2025-10-02,Mobile App,Hyderabad,P1004,Office Chair,Furniture,7000,2,14000,65,34,Home Office,Debit Card,West
+ORD0887,2025-12-03,Marketplace,Mumbai,P1003,Headphones,Electronics,3000,5,15000,433,11,Corporate,Debit Card,West
+ORD0888,2025-07-03,Mobile App,Hyderabad,P1002,Smartphone,Electronics,30000,1,30000,24,16,Consumer,Net Banking,North
+ORD0889,2025-11-24,Online,Pune,P1009,Watch,Accessories,5000,1,5000,259,22,Corporate,Cash,South
+ORD0890,2025-07-20,Mobile App,Delhi,P1007,Jeans,Clothing,2000,5,10000,127,38,Home Office,Debit Card,North
+ORD0891,2025-06-07,Mobile App,Mumbai,P1006,T-Shirt,Clothing,800,4,3200,327,43,Corporate,Credit Card,South
+ORD0892,2025-12-21,Online,Pune,P1003,Headphones,Electronics,3000,4,12000,486,24,Consumer,Net Banking,West
+ORD0893,2025-06-15,Store,Mumbai,P1010,Backpack,Accessories,1500,5,7500,180,40,Home Office,Credit Card,West
+ORD0894,2025-06-03,Online,Mumbai,P1008,Sneakers,Footwear,3500,4,14000,187,31,Consumer,UPI,North
+ORD0895,2025-07-12,Store,Bangalore,P1001,Laptop,Electronics,60000,1,60000,221,21,Consumer,UPI,West
+ORD0896,2025-02-10,Mobile App,Hyderabad,P1003,Headphones,Electronics,3000,5,15000,109,19,Corporate,Credit Card,North
+ORD0897,2025-11-21,Online,Bangalore,P1006,T-Shirt,Clothing,800,4,3200,255,48,Home Office,Cash,South
+ORD0898,2025-03-22,Online,Delhi,P1003,Headphones,Electronics,3000,5,15000,258,48,Corporate,Cash,West
+ORD0899,2025-11-24,Store,Bangalore,P1009,Watch,Accessories,5000,2,10000,180,39,Home Office,UPI,South
+ORD0900,2025-10-13,Mobile App,Pune,P1006,T-Shirt,Clothing,800,2,1600,227,23,Corporate,Cash,West
+ORD0901,2025-03-11,Online,Pune,P1001,Laptop,Electronics,60000,5,300000,389,32,Home Office,UPI,North
+ORD0902,2025-07-31,Marketplace,Hyderabad,P1010,Backpack,Accessories,1500,2,3000,288,16,Corporate,Net Banking,North
+ORD0903,2025-04-26,Online,Pune,P1002,Smartphone,Electronics,30000,3,90000,257,39,Corporate,UPI,West
+ORD0904,2025-03-13,Mobile App,Hyderabad,P1008,Sneakers,Footwear,3500,4,14000,226,16,Corporate,Debit Card,North
+ORD0905,2025-07-19,Marketplace,Delhi,P1001,Laptop,Electronics,60000,5,300000,278,20,Home Office,UPI,North
+ORD0906,2025-09-07,Marketplace,Delhi,P1010,Backpack,Accessories,1500,2,3000,258,49,Home Office,Cash,West
+ORD0907,2025-10-26,Online,Hyderabad,P1010,Backpack,Accessories,1500,2,3000,277,39,Corporate,Cash,East
+ORD0908,2025-06-03,Marketplace,Hyderabad,P1005,Desk,Furniture,12000,1,12000,33,17,Home Office,Credit Card,South
+ORD0909,2025-05-11,Store,Hyderabad,P1004,Office Chair,Furniture,7000,5,35000,480,46,Home Office,Cash,East
+ORD0910,2025-03-25,Mobile App,Hyderabad,P1008,Sneakers,Footwear,3500,3,10500,490,22,Corporate,Cash,East
+ORD0911,2025-09-25,Store,Mumbai,P1006,T-Shirt,Clothing,800,5,4000,290,24,Corporate,Net Banking,West
+ORD0912,2025-12-31,Online,Mumbai,P1008,Sneakers,Footwear,3500,1,3500,422,38,Consumer,UPI,West
+ORD0913,2025-08-06,Store,Delhi,P1010,Backpack,Accessories,1500,4,6000,434,50,Consumer,Credit Card,West
+ORD0914,2025-11-28,Store,Bangalore,P1006,T-Shirt,Clothing,800,3,2400,62,31,Corporate,Cash,South
+ORD0915,2025-05-07,Store,Pune,P1006,T-Shirt,Clothing,800,4,3200,289,17,Corporate,Debit Card,North
+ORD0916,2025-05-05,Marketplace,Mumbai,P1010,Backpack,Accessories,1500,2,3000,127,40,Home Office,Net Banking,North
+ORD0917,2025-04-18,Online,Mumbai,P1010,Backpack,Accessories,1500,5,7500,332,43,Consumer,Credit Card,North
+ORD0918,2025-12-06,Store,Pune,P1001,Laptop,Electronics,60000,1,60000,290,13,Corporate,Credit Card,South
+ORD0919,2025-03-21,Marketplace,Pune,P1008,Sneakers,Footwear,3500,3,10500,298,35,Home Office,Net Banking,East
+ORD0920,2025-10-26,Store,Pune,P1009,Watch,Accessories,5000,4,20000,87,23,Corporate,Credit Card,East
+ORD0921,2025-10-14,Mobile App,Hyderabad,P1001,Laptop,Electronics,60000,4,240000,362,49,Home Office,UPI,South
+ORD0922,2025-03-23,Mobile App,Delhi,P1010,Backpack,Accessories,1500,2,3000,407,39,Corporate,Cash,West
+ORD0923,2025-12-29,Store,Delhi,P1003,Headphones,Electronics,3000,1,3000,200,44,Corporate,Net Banking,South
+ORD0924,2025-01-24,Online,Delhi,P1010,Backpack,Accessories,1500,2,3000,30,22,Corporate,Debit Card,East
+ORD0925,2025-03-30,Online,Delhi,P1002,Smartphone,Electronics,30000,4,120000,335,30,Home Office,Credit Card,East
+ORD0926,2025-06-19,Marketplace,Mumbai,P1009,Watch,Accessories,5000,4,20000,151,27,Home Office,Net Banking,South
+ORD0927,2025-07-28,Online,Pune,P1006,T-Shirt,Clothing,800,2,1600,497,29,Corporate,Net Banking,South
+ORD0928,2025-04-29,Mobile App,Delhi,P1007,Jeans,Clothing,2000,2,4000,371,27,Consumer,UPI,West
+ORD0929,2025-07-04,Mobile App,Mumbai,P1002,Smartphone,Electronics,30000,3,90000,467,47,Consumer,Credit Card,South
+ORD0930,2025-06-24,Marketplace,Delhi,P1008,Sneakers,Footwear,3500,2,7000,495,28,Consumer,Credit Card,South
+ORD0931,2025-12-17,Marketplace,Mumbai,P1007,Jeans,Clothing,2000,2,4000,370,30,Consumer,Credit Card,West
+ORD0932,2025-09-28,Mobile App,Bangalore,P1001,Laptop,Electronics,60000,5,300000,223,17,Consumer,Net Banking,East
+ORD0933,2025-11-09,Online,Pune,P1009,Watch,Accessories,5000,1,5000,455,29,Corporate,Credit Card,South
+ORD0934,2025-12-07,Store,Hyderabad,P1009,Watch,Accessories,5000,3,15000,460,32,Corporate,Cash,North
+ORD0935,2025-02-15,Mobile App,Delhi,P1001,Laptop,Electronics,60000,3,180000,86,34,Consumer,Debit Card,North
+ORD0936,2025-11-06,Online,Bangalore,P1006,T-Shirt,Clothing,800,5,4000,306,22,Corporate,Credit Card,East
+ORD0937,2025-04-23,Marketplace,Mumbai,P1003,Headphones,Electronics,3000,5,15000,107,27,Consumer,UPI,East
+ORD0938,2025-12-14,Marketplace,Mumbai,P1009,Watch,Accessories,5000,3,15000,429,30,Consumer,Credit Card,North
+ORD0939,2025-11-14,Store,Bangalore,P1001,Laptop,Electronics,60000,5,300000,60,44,Corporate,Cash,East
+ORD0940,2025-11-04,Online,Hyderabad,P1002,Smartphone,Electronics,30000,4,120000,386,11,Consumer,Debit Card,West
+ORD0941,2025-06-13,Store,Pune,P1005,Desk,Furniture,12000,1,12000,240,47,Consumer,Net Banking,South
+ORD0942,2025-03-24,Mobile App,Mumbai,P1010,Backpack,Accessories,1500,3,4500,464,17,Home Office,Cash,North
+ORD0943,2025-05-01,Marketplace,Bangalore,P1005,Desk,Furniture,12000,2,24000,167,32,Home Office,Net Banking,East
+ORD0944,2025-11-15,Marketplace,Delhi,P1008,Sneakers,Footwear,3500,1,3500,261,12,Corporate,Cash,North
+ORD0945,2025-01-03,Mobile App,Delhi,P1005,Desk,Furniture,12000,1,12000,37,26,Home Office,Debit Card,North
+ORD0946,2025-02-22,Store,Delhi,P1002,Smartphone,Electronics,30000,4,120000,385,30,Corporate,Cash,East
+ORD0947,2025-09-17,Mobile App,Mumbai,P1002,Smartphone,Electronics,30000,4,120000,283,17,Home Office,Debit Card,East
+ORD0948,2025-09-17,Mobile App,Pune,P1003,Headphones,Electronics,3000,5,15000,322,45,Corporate,Credit Card,West
+ORD0949,2025-04-30,Online,Pune,P1006,T-Shirt,Clothing,800,5,4000,437,24,Corporate,Credit Card,East
+ORD0950,2025-10-24,Marketplace,Mumbai,P1009,Watch,Accessories,5000,4,20000,50,32,Consumer,UPI,South
+ORD0951,2025-09-16,Store,Bangalore,P1005,Desk,Furniture,12000,4,48000,454,15,Corporate,Cash,East
+ORD0952,2025-07-12,Mobile App,Pune,P1010,Backpack,Accessories,1500,3,4500,22,27,Corporate,Credit Card,West
+ORD0953,2025-07-25,Marketplace,Mumbai,P1005,Desk,Furniture,12000,1,12000,378,49,Consumer,Credit Card,West
+ORD0954,2025-03-03,Online,Pune,P1005,Desk,Furniture,12000,3,36000,340,20,Corporate,Credit Card,North
+ORD0955,2025-06-17,Store,Bangalore,P1007,Jeans,Clothing,2000,4,8000,123,41,Home Office,UPI,North
+ORD0956,2025-09-23,Mobile App,Pune,P1004,Office Chair,Furniture,7000,5,35000,195,40,Home Office,Cash,North
+ORD0957,2025-11-26,Mobile App,Hyderabad,P1002,Smartphone,Electronics,30000,4,120000,310,21,Corporate,UPI,South
+ORD0958,2025-03-15,Marketplace,Mumbai,P1004,Office Chair,Furniture,7000,2,14000,462,25,Corporate,Credit Card,East
+ORD0959,2025-11-08,Marketplace,Pune,P1006,T-Shirt,Clothing,800,2,1600,261,46,Home Office,UPI,North
+ORD0960,2025-08-19,Mobile App,Delhi,P1005,Desk,Furniture,12000,4,48000,198,26,Home Office,Cash,East
+ORD0961,2025-12-09,Online,Bangalore,P1009,Watch,Accessories,5000,2,10000,139,18,Corporate,Debit Card,East
+ORD0962,2025-11-06,Online,Bangalore,P1001,Laptop,Electronics,60000,5,300000,252,29,Home Office,UPI,West
+ORD0963,2025-04-20,Online,Delhi,P1004,Office Chair,Furniture,7000,1,7000,196,18,Consumer,Debit Card,East
+ORD0964,2025-07-11,Mobile App,Bangalore,P1005,Desk,Furniture,12000,5,60000,420,31,Corporate,Credit Card,South
+ORD0965,2025-04-18,Store,Delhi,P1006,T-Shirt,Clothing,800,5,4000,111,15,Consumer,Net Banking,West
+ORD0966,2025-07-15,Online,Mumbai,P1007,Jeans,Clothing,2000,1,2000,328,31,Home Office,Credit Card,East
+ORD0967,2025-08-19,Mobile App,Bangalore,P1003,Headphones,Electronics,3000,2,6000,181,22,Corporate,Credit Card,West
+ORD0968,2025-01-02,Marketplace,Bangalore,P1002,Smartphone,Electronics,30000,4,120000,421,42,Consumer,Net Banking,East
+ORD0969,2025-09-07,Online,Delhi,P1009,Watch,Accessories,5000,1,5000,218,11,Consumer,Net Banking,South
+ORD0970,2025-11-16,Mobile App,Hyderabad,P1009,Watch,Accessories,5000,5,25000,68,41,Corporate,Debit Card,East
+ORD0971,2025-02-25,Mobile App,Pune,P1003,Headphones,Electronics,3000,5,15000,397,13,Corporate,Cash,South
+ORD0972,2025-05-23,Marketplace,Delhi,P1007,Jeans,Clothing,2000,2,4000,429,23,Home Office,Net Banking,West
+ORD0973,2025-07-04,Marketplace,Hyderabad,P1008,Sneakers,Footwear,3500,5,17500,327,41,Consumer,Debit Card,North
+ORD0974,2025-12-04,Marketplace,Pune,P1002,Smartphone,Electronics,30000,1,30000,443,42,Corporate,Net Banking,East
+ORD0975,2025-06-01,Mobile App,Hyderabad,P1005,Desk,Furniture,12000,1,12000,453,37,Consumer,Cash,West
+ORD0976,2025-06-20,Store,Bangalore,P1007,Jeans,Clothing,2000,5,10000,184,15,Corporate,Debit Card,South
+ORD0977,2025-04-28,Store,Hyderabad,P1010,Backpack,Accessories,1500,1,1500,254,11,Corporate,Credit Card,East
+ORD0978,2025-11-15,Store,Delhi,P1010,Backpack,Accessories,1500,5,7500,367,12,Home Office,Debit Card,East
+ORD0979,2025-08-07,Marketplace,Mumbai,P1002,Smartphone,Electronics,30000,2,60000,468,32,Consumer,UPI,West
+ORD0980,2025-04-27,Mobile App,Pune,P1005,Desk,Furniture,12000,1,12000,281,11,Corporate,Net Banking,East
+ORD0981,2025-08-04,Store,Mumbai,P1003,Headphones,Electronics,3000,5,15000,274,11,Consumer,Credit Card,West
+ORD0982,2025-05-03,Store,Mumbai,P1001,Laptop,Electronics,60000,5,300000,71,25,Consumer,Net Banking,East
+ORD0983,2025-02-01,Marketplace,Bangalore,P1010,Backpack,Accessories,1500,4,6000,244,20,Corporate,UPI,North
+ORD0984,2025-09-08,Mobile App,Mumbai,P1004,Office Chair,Furniture,7000,2,14000,413,26,Home Office,Net Banking,South
+ORD0985,2025-06-26,Mobile App,Mumbai,P1002,Smartphone,Electronics,30000,2,60000,353,40,Consumer,Net Banking,West
+ORD0986,2025-02-12,Online,Delhi,P1006,T-Shirt,Clothing,800,1,800,416,22,Corporate,Net Banking,South
+ORD0987,2025-11-03,Online,Hyderabad,P1009,Watch,Accessories,5000,4,20000,404,32,Corporate,Credit Card,South
+ORD0988,2025-03-23,Online,Mumbai,P1005,Desk,Furniture,12000,5,60000,187,47,Consumer,UPI,North
+ORD0989,2025-05-19,Mobile App,Mumbai,P1005,Desk,Furniture,12000,3,36000,456,33,Home Office,UPI,South
+ORD0990,2025-06-04,Online,Mumbai,P1002,Smartphone,Electronics,30000,1,30000,370,50,Consumer,Credit Card,East
+ORD0991,2025-11-11,Mobile App,Bangalore,P1002,Smartphone,Electronics,30000,1,30000,328,21,Corporate,Credit Card,West
+ORD0992,2025-06-28,Store,Delhi,P1005,Desk,Furniture,12000,4,48000,200,12,Home Office,Cash,East
+ORD0993,2025-08-16,Store,Mumbai,P1006,T-Shirt,Clothing,800,3,2400,385,39,Corporate,Net Banking,North
+ORD0994,2025-12-01,Mobile App,Mumbai,P1001,Laptop,Electronics,60000,2,120000,360,30,Consumer,Net Banking,North
+ORD0995,2025-06-20,Online,Hyderabad,P1003,Headphones,Electronics,3000,2,6000,260,18,Corporate,Cash,South
+ORD0996,2025-01-06,Store,Pune,P1010,Backpack,Accessories,1500,5,7500,407,28,Corporate,Cash,East
+ORD0997,2025-12-05,Mobile App,Hyderabad,P1005,Desk,Furniture,12000,1,12000,134,36,Home Office,UPI,North
+ORD0998,2025-05-25,Marketplace,Pune,P1005,Desk,Furniture,12000,3,36000,393,33,Home Office,Debit Card,South
+ORD0999,2025-10-13,Online,Hyderabad,P1009,Watch,Accessories,5000,2,10000,179,34,Corporate,Cash,West
+ORD1000,2025-02-26,Online,Mumbai,P1001,Laptop,Electronics,60000,2,120000,265,46,Home Office,Debit Card,South
