@@ -7,7 +7,7 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 
 
 
-##  Dataset Overview
+###  Dataset Overview
 
 This dataset contains transactional retail sales data including product details, customer segments, inventory levels, and sales performance.
 
@@ -36,7 +36,7 @@ This dataset contains transactional retail sales data including product details,
 
 ---
 
-##  Data Cleaning
+###  Data Cleaning
 
 * Identified and handled missing values in the dataset to ensure data consistency
 * Removed or corrected inconsistent and duplicate records where necessary
@@ -53,7 +53,7 @@ df['Order_Date'] = pd.to_datetime(df['Order_Date'])
 
 ---
 
-##  Univariate Analysis
+###  Univariate Analysis
 
 ### Categorical Variables
 
@@ -83,7 +83,7 @@ Key observations:
 
 ---
 
-##  Bivariate Analysis
+###  Bivariate Analysis
 
 ### Sales Relationships
 
@@ -107,7 +107,7 @@ df.groupby('Channel')['Sales_Amount'].sum()
 
 ---
 
-## Time Series Analysis
+### Time Series Analysis
 
 ```python
 sales_trend = df.groupby('Order_Date')['Sales_Amount'].sum()
@@ -121,7 +121,7 @@ Insights:
 
 ---
 
-##  Inventory Analysis
+###  Inventory Analysis
 
 ```python
 df['Stock_Status'] = df['Inventory_Level'] < df['Reorder_Level']
@@ -134,7 +134,7 @@ Insights:
 
 ---
 
-##  Regional Analysis
+###  Regional Analysis
 
 ```python
 df.groupby('Region')['Sales_Amount'].sum()
@@ -146,7 +146,7 @@ Insights:
 
 ---
 
-##  Customer Analysis
+###  Customer Analysis
 
 ```python
 df.groupby('Customer_Segment')['Sales_Amount'].sum()
@@ -158,7 +158,7 @@ Insights:
 
 ---
 
-##  Payment Analysis
+### Payment Analysis
 
 ```python
 df['Payment_Method'].value_counts()
@@ -170,14 +170,48 @@ Insights:
 
 ---
 
-##  Key Insights
+###  Key Insights
 
 * Corporate customers are the primary revenue drivers
 * East region shows strongest sales performance
 * Sales are heavily influenced by quantity sold
 * Some products are below reorder level → potential stock risk
 * Store channel slightly dominates over others
+## Database & SQL Analysis
+This project utilizes MySQL to store, manage, and analyze retail transaction data. A structured database is designed to enable efficient querying and generation of key business metrics (KPIs).
 
+ ### Database Setup
+* Created database: ominisales
+* Imported dataset into table: omnichannel_retail_sales_inventory_dataset
+### Data Cleaning Steps:
+* Renamed incorrect column:
+* ï»¿Order_ID → Order_ID
+* Converted Order_Date to DATE format for time-based analysis
+### Key SQL Analysis
+
+The following key performance indicators (KPIs) were calculated using SQL:
+
+* Total Sales
+* Total Orders
+* Average Order Value (AOV)
+* Units Sold
+* Month-over-Month (MoM) Growth
+### Business Queries Implemented
+* Monthly sales trends
+* Top 10 performing products
+* Sales distribution by region
+* KPI aggregations for dashboard reporting
+
+These queries serve as the backend for the Business Intelligence dashboard, enabling data-driven insights.
+
+### How to Run
+1. Create Database
+CREATE DATABASE ominisales;
+2. Import Dataset
+Load the dataset into MySQL
+Create table: omnichannel_retail_sales_inventory_dataset
+3. Execute SQL Script
+Ominichanel_retail_sales.sql;
 
 
 
