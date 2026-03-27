@@ -38,8 +38,13 @@ This dataset contains transactional retail sales data including product details,
 
 ##  Data Cleaning
 
-* No missing values found
-* No duplicate rows detected (based on Order_ID)
+* Identified and handled missing values in the dataset to ensure data consistency
+* Removed or corrected inconsistent and duplicate records where necessary
+* Converted data types (e.g., transforming Order_Date into datetime format)
+* Standardized categorical values for uniformity across sources
+* Created derived features such as:
+* Total Sales (if not precomputed)
+* Stock status (based on Inventory vs Reorder level)
 * Converted `Order_Date` to datetime format
 
 ```python
