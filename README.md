@@ -126,7 +126,7 @@ This project utilizes MySQL to store, manage, and analyze retail transaction dat
 ### Data Cleaning Steps:
 * Renamed incorrect column:
 * ï»¿Order_ID → Order_ID
-* Converted Order_Date to DATE format for time-based analysis.
+* Converted Order_Date to DATE format for time-based analysis
 
 <b> Key Insights </b>
 * Sales Distribution by Channel
