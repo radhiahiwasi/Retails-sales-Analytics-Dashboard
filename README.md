@@ -14,7 +14,6 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 * Total Units Sold: 2.98K
 
 <b> Visual Insights: </b>
-
 * Monthly sales trends showing seasonal peaks
 * Region-wise sales distribution
 * Channel performance comparison
