@@ -20,7 +20,17 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 * Payment method analysis.
 * Purpose: Helps stakeholders quickly monitor performance and identify trends.
 #### Inventory & Product Insights
+<img width="1444" height="798" alt="Sales Dashboard 2" src="https://github.com/user-attachments/assets/76fe9cde-ca9c-4862-9039-ee9e3e582a2e"
+<b> This dashboard focuses on product performance and inventory management: </b>
 
+<b> Key Features:<b>
+
+* Top-performing products by revenue.
+* Location-wise sales insights.
+* Low inventory alerts.
+* Category-wise sales contribution.
+
+* Purpose: Supports inventory optimization and product-level decision-making.
 ## Exploratory Data Analysis (EDA)
 
 
