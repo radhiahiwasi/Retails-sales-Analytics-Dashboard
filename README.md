@@ -8,7 +8,7 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 <img width="1444" height="798" alt="Sales Dashboard 2" src="https://github.com/user-attachments/assets/44665d14-ce15-45fe-b092-9c4641893314" />
 
 
-<b>This dashboard provides a comprehensive overview of retail performance:</b>
+<b> This dashboard provides a comprehensive overview of retail performance: </b>
 <b>Key KPIs:</b>
 
 * Total Sales: 37.95M
