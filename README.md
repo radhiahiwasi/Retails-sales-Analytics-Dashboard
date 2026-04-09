@@ -138,7 +138,9 @@ This dataset contains transactional retail sales data including product details,
  * West: 249
  * South: 234
 * Sales are fairly balanced geographically, with a slight lead in the East region.
+
 <ins> Sales by Category </ins>
+
 | Category     | Total Sales |
 |--------------|------------|
 | Electronics  | 28,362,000 |
