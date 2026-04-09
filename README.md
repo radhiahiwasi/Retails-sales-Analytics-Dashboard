@@ -420,6 +420,7 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li> Expand strategies across regions</li>
   <li> Encourage digital payments</li>
 </ul>
+
 ##  Project Files
 
 -  [**EDA_Retails_Sales_Analysis.ipynb**](./EDA_Retails_Sales_Analysis.ipynb)  
