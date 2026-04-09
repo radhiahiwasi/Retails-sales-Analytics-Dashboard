@@ -7,19 +7,17 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 <img width="1440" height="798" alt="Sales dashboard 1" src="https://github.com/user-attachments/assets/cf79b3e5-fa30-4286-b89a-25f6bffbb1b7" />
 <b>This dashboard provides a comprehensive overview of retail performance:</b>
 <b>Key KPIs:</b>
-
 * Total Sales: 37.95M
 * Total Orders: 1000
 * Average Order Value: 37.95K
 * Total Units Sold: 2.98K
 
 <b> Visual Insights: </b>
-* Monthly sales trends showing seasonal peaks
-* Region-wise sales distribution
-* Channel performance comparison
-* Payment method analysis
-
-* Purpose: Helps stakeholders quickly monitor performance and identify trends
+* Monthly sales trends showing seasonal peaks.
+* Region-wise sales distribution.
+* Channel performance comparison.
+* Payment method analysis.
+* Purpose: Helps stakeholders quickly monitor performance and identify trends.
 
 ## Exploratory Data Analysis (EDA)
 
