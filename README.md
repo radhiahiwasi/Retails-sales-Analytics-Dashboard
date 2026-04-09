@@ -117,6 +117,7 @@ This dataset contains transactional retail sales data including product details,
 * Converted `Order_Date` to datetime format
 
 <b> Key Insights </b>
+
 <ins> Sales Distribution by Channel <ins>
   * Store: 255 orders
   * Mobile App: 251 orders
