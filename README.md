@@ -9,7 +9,7 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 
 
 <b> This dashboard provides a comprehensive overview of retail performance: </b>
-<b>Key KPIs:</b>
+<b> Key KPIs: </b>
 
 * Total Sales: 37.95M
 * Total Orders: 1000
