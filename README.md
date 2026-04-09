@@ -117,11 +117,11 @@ This dataset contains transactional retail sales data including product details,
 * Converted `Order_Date` to datetime format
 
 <b> Key Insights </b>
-* Sales Distribution by Channel
-  Store: 255 orders
-  Mobile App: 251 orders
-  Marketplace: 250 orders
-  Online: 244 orders
+<u> Sales Distribution by Channel </u>
+  * Store: 255 orders
+  * Mobile App: 251 orders
+  * Marketplace: 250 orders
+  * Online: 244 orders
   
 ## Database & SQL Analysis
 This project utilizes MySQL to store, manage, and analyze retail transaction data. A structured database is designed to enable efficient querying and generation of key business metrics (KPIs).
