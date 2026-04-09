@@ -252,12 +252,7 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Launch weekend offers and flash sales</li>
   <li>Optimize staffing and operations based on peak days</li>
 </ul>
-<p><b>Insight:</b> Demand fluctuates due to seasonal trends and customer buying cycles.</p>
-<p><b>Business Impact:</b></p>
-<ul>
-  <li>Plan campaigns during low-performing months</li>
-  <li>Increase inventory before peak periods</li>
-</ul>
+
 
 <h4> 2. Regional Performance Analysis</h4>
 <ul>
