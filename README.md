@@ -199,9 +199,9 @@ The following key performance indicators (KPIs) were calculated using SQL:
 * KPI aggregations for dashboard reporting
 
 These queries serve as the backend for the Business Intelligence dashboard, enabling data-driven insights.
-<h2>📊 7. Dashboard Insights</h2>
+<h2> 7. Dashboard Insights</h2>
 
-<h3>📌 Key Performance Metrics</h3>
+<h3> Key Performance Metrics</h3>
 <ul>
   <li><b>Total Sales:</b> 37.95M</li>
   <li><b>Total Orders:</b> 1000</li>
@@ -209,11 +209,11 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li><b>Total Units Sold:</b> 2.98K</li>
 </ul>
 
-<p>👉 These KPIs provide a quick snapshot of overall business performance and revenue efficiency.</p>
+<p> These KPIs provide a quick snapshot of overall business performance and revenue efficiency.</p>
 
-<h3>📈 Detailed Business Insights</h3>
+<h3> Detailed Business Insights</h3>
 
-<h4>🛒 1. Sales Trend Analysis</h4>
+<h4> 1. Sales Trend Analysis</h4>
 <ul>
   <li>Seasonal sales patterns observed across months</li>
   <li><b>Peak Months:</b> March (~4.7M), November (~4.6M)</li>
@@ -226,7 +226,7 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Increase inventory before peak periods</li>
 </ul>
 
-<h4>🌍 2. Regional Performance Analysis</h4>
+<h4> 2. Regional Performance Analysis</h4>
 <ul>
   <li>East: ~10.8M (highest)</li>
   <li>North: ~10.1M</li>
@@ -240,7 +240,7 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Explore growth opportunities in weaker regions</li>
 </ul>
 
-<h4>🛍️ 3. Channel Performance Analysis</h4>
+<h4> 3. Channel Performance Analysis</h4>
 <ul>
   <li>Store: ~10.1M</li>
   <li>Online: ~9.7M</li>
@@ -254,7 +254,7 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Invest in digital scalability</li>
 </ul>
 
-<h4>💳 4. Payment Method Analysis</h4>
+<h4> 4. Payment Method Analysis</h4>
 <ul>
   <li>UPI & Credit Cards dominate</li>
   <li>Cash usage is low</li>
@@ -266,7 +266,7 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Offer incentives for online payments</li>
 </ul>
 
-<h4>🏆 5. Product Performance Analysis</h4>
+<h4> 5. Product Performance Analysis</h4>
 <ul>
   <li><b>Top Product:</b> Laptop (~19.98M)</li>
   <li>Followed by Smartphones & Office products</li>
@@ -278,7 +278,7 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Ensure stock availability</li>
 </ul>
 
-<h4>💰 6. Category-Level Insights</h4>
+<h4> 6. Category-Level Insights</h4>
 <ul>
   <li>Electronics: ~28M+ (dominant)</li>
   <li>Other categories contribute less</li>
@@ -290,7 +290,7 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Boost underperforming categories</li>
 </ul>
 
-<h4>📦 7. Inventory & Stock Analysis</h4>
+<h4> 7. Inventory & Stock Analysis</h4>
 <ul>
   <li>Low stock products: Laptop, Jeans, Desk, Backpack</li>
 </ul>
@@ -302,7 +302,7 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Align stock with demand</li>
 </ul>
 
-<h4>🔗 8. Sales Drivers Analysis</h4>
+<h4> 8. Sales Drivers Analysis</h4>
 <ul>
   <li>Weak correlation between quantity and revenue</li>
 </ul>
@@ -314,7 +314,7 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Optimize margins</li>
 </ul>
 
-<h3>🧠 Overall Insight Summary</h3>
+<h3> Overall Insight Summary</h3>
 <ul>
   <li>Strong omnichannel performance</li>
   <li>Clear seasonal demand patterns</li>
@@ -324,13 +324,13 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Revenue driven by pricing</li>
 </ul>
 
-<h3>🚀 Strategic Recommendations</h3>
+<h3> Strategic Recommendations</h3>
 <ul>
-  <li>📊 Implement demand forecasting</li>
-  <li>📦 Optimize inventory with predictive models</li>
-  <li>🎯 Focus on high-margin products</li>
-  <li>🌍 Expand strategies across regions</li>
-  <li>💳 Encourage digital payments</li>
+  <li> Implement demand forecasting</li>
+  <li> Optimize inventory with predictive models</li>
+  <li> Focus on high-margin products</li>
+  <li> Expand strategies across regions</li>
+  <li> Encourage digital payments</li>
 </ul>
 
 
