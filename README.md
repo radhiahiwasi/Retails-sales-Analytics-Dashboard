@@ -35,6 +35,26 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 * Purpose: Supports inventory optimization and product-level decision-making.
 
 ## 3. Data Flow Architecture
+Data Sources (POS Systems + Online Platforms)
+                    ↓
+        Data Cleaning & Preprocessing (Python)
+                    ↓
+     Exploratory Data Analysis (Python)
+                    ↓
+        Structured Storage (MySQL Database)
+                    ↓
+        Data Connection to Power BI
+                    ↓
+        Interactive Dashboard & Reports
+                    ↓
+            Business Insights & Decisions
+
+<b> Explanation: </b>
+* Data is collected from multiple sales channels
+* Python is used for cleaning and analysis
+* MySQL stores structured data for efficient querying
+* Power BI connects to the database for visualization
+* Final dashboards provide actionable business insights
 
 ## Exploratory Data Analysis (EDA)
 
