@@ -435,6 +435,9 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
 -  [**assets/**](./assets)  
   Contains dashboard images used in this README
 
+-  [**retail_sales_dataset.csv**](./retail_sales_dataset.csv)  
+   dataset used for analysis, containing transactional sales, product, customer, and inventory data  
+
 <h2> Conclusion</h2>
 
 <p>
