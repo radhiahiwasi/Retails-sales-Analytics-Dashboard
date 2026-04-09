@@ -63,9 +63,11 @@ Data Sources (POS Systems + Online Platforms)
 * Data cleaning and preprocessing
 * Exploratory Data Analysis (EDA)
 * Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 <b> MySQL </b>
 * Database design and management
 * Structured querying of retail data
+
 <b> Power BI </b>
 * Dashboard creation and visualization
 * Business intelligence reporting
