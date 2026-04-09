@@ -125,6 +125,7 @@ This dataset contains transactional retail sales data including product details,
   * Online: 244 orders
 
 * Sales are evenly distributed across all channels, indicating a well-balanced omnichannel strategy.
+
 <ins> Customer Segmentation </ins>
   * Corporate: 354
   * Home Office: 327
