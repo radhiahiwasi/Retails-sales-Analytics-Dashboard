@@ -149,18 +149,20 @@ This dataset contains transactional retail sales data including product details,
 | Clothing     | 872,000    |
 
 * Electronics dominates sales, contributing the majority of revenue.
+
 <ins> Correlation Analysis </ins>
   
 * Correlation (Quantity Sold vs Sales Amount): 0.25
 
 * Weak positive correlation indicates:
 Revenue is driven more by unit price than sales volume
+
 <ins> Inventory Insights </ins>
 * Inventory and reorder levels are tracked for all products enables:
+* Stock optimization
+* Reorder alerts
+* Demand forecasting
 
-Stock optimization
-Reorder alerts
-Demand forecasting
 <ins> Summary </ins>
 * No data quality issues (clean dataset)
 * Balanced performance across channels and regions
