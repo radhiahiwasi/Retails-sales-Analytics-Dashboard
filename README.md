@@ -214,10 +214,43 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
 <h3> Detailed Business Insights</h3>
 
 <h4> 1. Sales Trend Analysis</h4>
+<h4> Monthly Sales Analysis</h4>
 <ul>
-  <li>Seasonal sales patterns observed across months</li>
-  <li><b>Peak Months:</b> March (~4.7M), November (~4.6M)</li>
-  <li><b>Lowest Month:</b> August (~2.4M)</li>
+  <li>Peak Months: <b>March (~4.7M)</b>, <b>November (~4.6M)</b></li>
+  <li>Lowest Month: <b>August (~2.4M)</b></li>
+  <li>Moderate performance observed across remaining months</li>
+</ul>
+<p><b>Insight:</b> Sales show strong seasonality, likely driven by promotions, financial cycles, and festive demand.</p>
+<p><b>Business Impact:</b></p>
+<ul>
+  <li>Increase marketing spend during low-performing months</li>
+  <li>Prepare inventory ahead of peak seasons</li>
+</ul>
+
+<h4> Quarterly Sales Analysis</h4>
+<ul>
+  <li><b>Q1 (Jan–Mar):</b> Strong growth driven by March peak</li>
+  <li><b>Q2 (Apr–Jun):</b> Stable performance</li>
+  <li><b>Q3 (Jul–Sep):</b> Lowest performance (dip in August)</li>
+  <li><b>Q4 (Oct–Dec):</b> High performance due to festive and year-end demand</li>
+</ul>
+<p><b>Insight:</b> Q1 and Q4 contribute the highest revenue, while Q3 shows a slowdown.</p>
+<p><b>Business Impact:</b></p>
+<ul>
+  <li>Focus promotions and campaigns in Q3 to boost sales</li>
+  <li>Maximize revenue opportunities in Q4 peak season</li>
+</ul>
+<h4> Daily Sales Patterns</h4>
+<ul>
+  <li>Sales vary across days with noticeable fluctuations</li>
+  <li>Higher activity typically observed during weekends and promotional days</li>
+  <li>Lower engagement on regular weekdays</li>
+</ul>
+<p><b>Insight:</b> Customer purchasing behavior is influenced by convenience and timing.</p>
+<p><b>Business Impact:</b></p>
+<ul>
+  <li>Launch weekend offers and flash sales</li>
+  <li>Optimize staffing and operations based on peak days</li>
 </ul>
 <p><b>Insight:</b> Demand fluctuates due to seasonal trends and customer buying cycles.</p>
 <p><b>Business Impact:</b></p>
