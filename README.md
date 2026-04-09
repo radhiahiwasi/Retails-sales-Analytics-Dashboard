@@ -35,9 +35,8 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 * Purpose: Supports inventory optimization and product-level decision-making.
 
 ## 3. Data Flow Architecture
-
+```text
 Data Sources (POS Systems + Online Platforms)
-
                     ↓
         Data Cleaning & Preprocessing (Python)
                     ↓
@@ -50,6 +49,7 @@ Data Sources (POS Systems + Online Platforms)
         Interactive Dashboard & Reports
                     ↓
             Business Insights & Decisions
+```
 
 <b> Explanation: </b>
 * Data is collected from multiple sales channels
