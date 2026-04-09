@@ -123,14 +123,12 @@ This dataset contains transactional retail sales data including product details,
   * Mobile App: 251 orders
   * Marketplace: 250 orders
   * Online: 244 orders
-
 * Sales are evenly distributed across all channels, indicating a well-balanced omnichannel strategy.
 
 <ins> Customer Segmentation </ins>
   * Corporate: 354
   * Home Office: 327
   * Consumer: 319
-
 * Corporate customers contribute slightly more transactions than other segments.
 
 <ins> Regional Distribution </ins>
