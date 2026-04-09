@@ -28,7 +28,6 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 <b> This dashboard focuses on product performance and inventory management: </b>
 
 <b> Key Features:<b>
-
 * Top-performing products by revenue.
 * Location-wise sales insights.
 * Low inventory alerts.
