@@ -32,8 +32,8 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 * Location-wise sales insights.
 * Low inventory alerts.
 * Category-wise sales contribution.
-
 * Purpose: Supports inventory optimization and product-level decision-making.
+
 ## Exploratory Data Analysis (EDA)
 
 
