@@ -4,7 +4,7 @@ This project focuses on building an end-to-end data analytics pipeline along wit
 By processing raw transactional data, the system uncovers sales trends, seasonal patterns, and product-level insights. These insights help businesses optimize inventory management, reduce stock inefficiencies, and design more targeted marketing strategies.Overall, the project aims to provide a scalable, data-driven solution that enhances decision-making, improves operational efficiency, and supports the digital transformation of retail businesses.
 ##  2. Dashboard Preview
 #### Sales & Performance Overview
-<img width="1440" height="798" alt="Sales Dashboard 1" src="https://github.com/user-attachments/assets/0a069d93-fb9f-40bb-a1ae-6cb2e3c9073e" />
+<img width="1423" height="780" alt="Sales dashboard 1" src="https://github.com/user-attachments/assets/5ec6794c-5631-4a39-a18e-e0cf837df999" />
 
 
 
@@ -24,7 +24,7 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 * Payment method analysis.
 * Purpose: Helps stakeholders quickly monitor performance and identify trends.
 #### Inventory & Product Insights
-<img width="1435" height="799" alt="Sales Dashboard 2" src="https://github.com/user-attachments/assets/2a01c652-b287-4adb-a160-cae79f662531" />
+<img width="1433" height="790" alt="Sales Dashboard 2" src="https://github.com/user-attachments/assets/6aeade07-20f0-4a4c-a811-28e5bc1bc682" />
 
 
 #### This dashboard focuses on product performance and inventory management: 
