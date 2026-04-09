@@ -435,7 +435,7 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
 -  [**assets/**](./assets)  
   Contains dashboard images used in this README
 
-<h2>🚀 Conclusion</h2>
+<h2> Conclusion</h2>
 
 <p>
 This project demonstrates the successful implementation of an <b>end-to-end retail analytics pipeline</b>, integrating data from multiple sources into a unified and scalable framework. By combining <b>Python for data processing</b>, <b>MySQL for structured storage</b>, and <b>Power BI for visualization</b>, the solution effectively transforms raw transactional data into meaningful business insights.
