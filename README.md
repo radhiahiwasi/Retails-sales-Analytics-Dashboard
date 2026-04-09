@@ -19,6 +19,7 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 * Channel performance comparison.
 * Payment method analysis.
 * Purpose: Helps stakeholders quickly monitor performance and identify trends.
+#### Inventory & Product Insights
 
 ## Exploratory Data Analysis (EDA)
 
