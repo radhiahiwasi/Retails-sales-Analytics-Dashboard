@@ -420,6 +420,19 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li> Expand strategies across regions</li>
   <li> Encourage digital payments</li>
 </ul>
+##  Project Files
+
+-  **EDA_Retails_Sales_Analysis.ipynb**  
+  Data cleaning, preprocessing, and exploratory data analysis  
+
+-  **omnichannel_retail_sales.sql**  
+  MySQL database schema and analytical queries  
+
+-  **omnichannel sales and inventory dashboard.pbit**  
+  Interactive Power BI dashboard for business insights  
+
+- **assets/**  
+  Contains dashboard images used in this README  
 
 
 
