@@ -34,6 +34,8 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 * Category-wise sales contribution.
 * Purpose: Supports inventory optimization and product-level decision-making.
 
+## 3. Data Flow Architecture
+
 ## Exploratory Data Analysis (EDA)
 
 
