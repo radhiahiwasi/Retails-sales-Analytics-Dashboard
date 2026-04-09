@@ -123,6 +123,49 @@ This dataset contains transactional retail sales data including product details,
   * Mobile App: 251 orders
   * Marketplace: 250 orders
   * Online: 244 orders
+
+* Sales are evenly distributed across all channels, indicating a well-balanced omnichannel strategy.
+<ins> Customer Segmentation </ins>
+  * Corporate: 354
+  * Home Office: 327
+  * Consumer: 319
+
+* Corporate customers contribute slightly more transactions than other segments.
+
+<ins> Regional Distribution </ins>
+ * East: 266
+ * North: 251
+ * West: 249
+ * South: 234
+* Sales are fairly balanced geographically, with a slight lead in the East region.
+<ins> Sales by Category </ins>
+| Category     | Total Sales |
+|--------------|------------|
+| Electronics  | 28,362,000 |
+| Furniture    | 5,874,000  |
+| Accessories  | 1,804,000  |
+| Footwear     | 1,036,000  |
+| Clothing     | 872,000    |
+
+* Electronics dominates sales, contributing the majority of revenue.
+<ins> Correlation Analysis </ins>
+  
+* Correlation (Quantity Sold vs Sales Amount): 0.25
+
+* Weak positive correlation indicates:
+Revenue is driven more by unit price than sales volume
+<ins> Inventory Insights </ins>
+* Inventory and reorder levels are tracked for all products enables:
+
+Stock optimization
+Reorder alerts
+Demand forecasting
+<ins> Summary </ins>
+* No data quality issues (clean dataset)
+* Balanced performance across channels and regions
+* Electronics is the primary revenue driver
+* Corporate customers contribute the most transactions
+* Sales are influenced more by pricing than volume
   
 ## Database & SQL Analysis
 This project utilizes MySQL to store, manage, and analyze retail transaction data. A structured database is designed to enable efficient querying and generation of key business metrics (KPIs).
@@ -154,14 +197,7 @@ The following key performance indicators (KPIs) were calculated using SQL:
 
 These queries serve as the backend for the Business Intelligence dashboard, enabling data-driven insights.
 
-### How to Run
-1. Create Database
-CREATE DATABASE ominisales;
-2. Import Dataset
-Load the dataset into MySQL
-Create table: omnichannel_retail_sales_inventory_dataset
-3. Execute SQL Script
-Ominichanel_retail_sales.sql;
+
 
 
 
