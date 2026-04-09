@@ -37,6 +37,7 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 ## 3. Data Flow Architecture
 
 Data Sources (POS Systems + Online Platforms)
+
                     ↓
         Data Cleaning & Preprocessing (Python)
                     ↓
