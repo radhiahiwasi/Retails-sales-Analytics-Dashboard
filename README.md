@@ -295,9 +295,9 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Explore growth opportunities in weaker regions</li>
 </ul>
 
-<h3>🏬 Store Location & Customer Segment Insights</h3>
+<h3> Store Location & Customer Segment Insights</h3>
 
-<h4>📍 Store Location-wise Sales Analysis</h4>
+<h4> Store Location-wise Sales Analysis</h4>
 <ul>
   <li>Sales are distributed across multiple store locations with slight variations</li>
   <li>Certain locations contribute significantly higher revenue compared to others</li>
