@@ -1,8 +1,8 @@
 # Omnichannel Retails Sales and Inventory Analytics
-## Project Overview
+##  1. Project Overview
 This project focuses on building an end-to-end data analytics pipeline along with an interactive Business Intelligence (BI) dashboard to address these challenges. The solution integrates data from both Point of Sale (POS) systems and online sales platforms into a unified framework, enabling consistent and reliable analysis.
 By processing raw transactional data, the system uncovers sales trends, seasonal patterns, and product-level insights. These insights help businesses optimize inventory management, reduce stock inefficiencies, and design more targeted marketing strategies.Overall, the project aims to provide a scalable, data-driven solution that enhances decision-making, improves operational efficiency, and supports the digital transformation of retail businesses.
-## Dashboard Preview
+##  2. Dashboard Preview
 #### Sales & Performance Overview
 <img width="1440" height="798" alt="Sales dashboard 1" src="https://github.com/user-attachments/assets/e4540050-e062-4d92-9f13-17c93b68fb7c" />
 
