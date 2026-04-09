@@ -7,16 +7,16 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 <img width="1440" height="798" alt="Sales dashboard 1" src="https://github.com/user-attachments/assets/e4540050-e062-4d92-9f13-17c93b68fb7c" />
 
 
-<b> This dashboard provides a comprehensive overview of retail performance: </b>
+#### This dashboard provides a comprehensive overview of retail performance: 
 
-<b> Key KPIs: </b>
+#### Key KPIs: 
 
 * Total Sales: 37.95M
 * Total Orders: 1000
 * Average Order Value: 37.95K
 * Total Units Sold: 2.98K
 
-<b> Visual Insights: </b>
+#### Visual Insights: 
 * Monthly sales trends showing seasonal peaks.
 * Region-wise sales distribution.
 * Channel performance comparison.
@@ -25,9 +25,9 @@ By processing raw transactional data, the system uncovers sales trends, seasonal
 #### Inventory & Product Insights
 <img width="1444" height="798" alt="Sales Dashboard 2" src="https://github.com/user-attachments/assets/82e7d7f2-e7a2-4857-a80f-4727832caa3d" />
 
-<b> This dashboard focuses on product performance and inventory management: </b>
+#### This dashboard focuses on product performance and inventory management: 
 
-<b> Key Features:<b>
+#### Key Features:
 * Top-performing products by revenue.
 * Location-wise sales insights.
 * Low inventory alerts.
@@ -51,7 +51,7 @@ Data Sources (POS Systems + Online Platforms)
             Business Insights & Decisions
 ```
 
-<b> Explanation: </b>
+#### Explanation: 
 * Data is collected from multiple sales channels.
 * Python is used for cleaning and analysis.
 * MySQL stores structured data for efficient querying.
@@ -59,16 +59,16 @@ Data Sources (POS Systems + Online Platforms)
 * Final dashboards provide actionable business insights.
 
 ## 4. Tools & Technologies
-<b> Python </b>
+#### Python 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis (EDA)
 * Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
-<b> MySQL </b>
+#### MySQL 
 * Database design and management
 * Structured querying of retail data
 
-<b> Power BI </b>
+#### Power BI 
 * Dashboard creation and visualization
 * Business intelligence reporting
 
@@ -116,7 +116,7 @@ This dataset contains transactional retail sales data including product details,
 * Stock status (based on Inventory vs Reorder level)
 * Converted `Order_Date` to datetime format
 
-<b> Key Insights </b>
+#### Key Insights 
 
 <ins> Sales Distribution by Channel <ins>
   * Store: 255 orders
