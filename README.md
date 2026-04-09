@@ -4,6 +4,8 @@ This project focuses on building an end-to-end data analytics pipeline along wit
 By processing raw transactional data, the system uncovers sales trends, seasonal patterns, and product-level insights. These insights help businesses optimize inventory management, reduce stock inefficiencies, and design more targeted marketing strategies.Overall, the project aims to provide a scalable, data-driven solution that enhances decision-making, improves operational efficiency, and supports the digital transformation of retail businesses.
 ## Dashboard Preview
 #### Sales & Performance Overview
+<img width="1440" height="798" alt="Sales dashboard 1" src="https://github.com/user-attachments/assets/cf79b3e5-fa30-4286-b89a-25f6bffbb1b7" />
+
 ## Exploratory Data Analysis (EDA)
 
 
