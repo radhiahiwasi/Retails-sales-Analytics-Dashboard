@@ -268,6 +268,39 @@ These queries serve as the backend for the Business Intelligence dashboard, enab
   <li>Explore growth opportunities in weaker regions</li>
 </ul>
 
+<h3>🏬 Store Location & Customer Segment Insights</h3>
+
+<h4>📍 Store Location-wise Sales Analysis</h4>
+<ul>
+  <li>Sales are distributed across multiple store locations with slight variations</li>
+  <li>Certain locations contribute significantly higher revenue compared to others</li>
+  <li>Delhi has the highest sales while hyderabad has lowest sales</li>
+  <li>Urban or high-footfall locations tend to perform better</li>
+</ul>
+<p><b>Insight:</b> Store performance varies based on location, customer density, and demand patterns.</p>
+
+<p><b>Business Impact:</b></p>
+<ul>
+  <li>Identify high-performing locations and replicate their strategies</li>
+  <li>Improve marketing and operations in low-performing stores</li>
+  <li>Optimize inventory allocation based on location demand</li>
+</ul>
+
+<h4> Customer Segment-wise Sales Analysis</h4>
+<ul>
+  <li><b>Corporate Segment:</b> Highest contribution to total transactions and revenue</li>
+  <li><b>Home Office Segment:</b> Moderate contribution</li>
+  <li><b>Consumer Segment:</b> Slightly lower but consistent participation</li>
+</ul>
+
+<p><b>Insight:</b> Corporate customers are the primary revenue drivers, indicating bulk or high-value purchases.</p>
+
+<p><b>Business Impact:</b></p>
+<ul>
+  <li>Develop targeted offers and loyalty programs for corporate clients</li>
+  <li>Expand B2B sales strategies</li>
+  <li>Design personalized marketing for Home Office and Consumer segments</li>
+</ul>
 <h4> 3. Channel Performance Analysis</h4>
 <ul>
   <li>Store: ~10.1M</li>
