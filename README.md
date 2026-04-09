@@ -116,59 +116,84 @@ This dataset contains transactional retail sales data including product details,
 * Stock status (based on Inventory vs Reorder level)
 * Converted `Order_Date` to datetime format
 
-#### Key Insights 
+<h3> Key Insights</h2>
 
-<ins> Sales Distribution by Channel <ins>
-  * Store: 255 orders
-  * Mobile App: 251 orders
-  * Marketplace: 250 orders
-  * Online: 244 orders
-* Sales are evenly distributed across all channels, indicating a well-balanced omnichannel strategy.
+<h4> Sales Distribution by Channel</h3>
+<ul>
+  <li>Store: 255 orders</li>
+  <li>Mobile App: 251 orders</li>
+  <li>Marketplace: 250 orders</li>
+  <li>Online: 244 orders</li>
+</ul>
+<p><b>Insight:</b> Sales are evenly distributed across all channels, indicating a well-balanced omnichannel strategy.</p>
 
-<ins> Customer Segmentation </ins>
-  * Corporate: 354
-  * Home Office: 327
-  * Consumer: 319
-* Corporate customers contribute slightly more transactions than other segments.
+<h4> Customer Segmentation</h3>
+<ul>
+  <li>Corporate: 354</li>
+  <li>Home Office: 327</li>
+  <li>Consumer: 319</li>
+</ul>
+<p><b>Insight:</b> Corporate customers contribute slightly more transactions than other segments.</p>
 
-<ins> Regional Distribution </ins>
- * East: 266
- * North: 251
- * West: 249
- * South: 234
-* Sales are fairly balanced geographically, with a slight lead in the East region.
+<h4> Regional Distribution</h3>
+<ul>
+  <li>East: 266</li>
+  <li>North: 251</li>
+  <li>West: 249</li>
+  <li>South: 234</li>
+</ul>
+<p><b>Insight:</b> Sales are fairly balanced geographically, with a slight lead in the East region.</p>
 
-<ins> Sales by Category </ins>
+<h4> Sales by Category</h3>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Total Sales</th>
+  </tr>
+  <tr>
+    <td>Electronics</td>
+    <td>28,362,000</td>
+  </tr>
+  <tr>
+    <td>Furniture</td>
+    <td>5,874,000</td>
+  </tr>
+  <tr>
+    <td>Accessories</td>
+    <td>1,804,000</td>
+  </tr>
+  <tr>
+    <td>Footwear</td>
+    <td>1,036,000</td>
+  </tr>
+  <tr>
+    <td>Clothing</td>
+    <td>872,000</td>
+  </tr>
+</table>
+<p><b>Insight:</b> Electronics dominates sales, contributing the majority of revenue.</p>
 
-| Category     | Total Sales |
-|--------------|------------|
-| Electronics  | 28,362,000 |
-| Furniture    | 5,874,000  |
-| Accessories  | 1,804,000  |
-| Footwear     | 1,036,000  |
-| Clothing     | 872,000    |
+<h4> Correlation Analysis</h3>
+<p><b>Correlation (Quantity Sold vs Sales Amount):</b> 0.25</p>
+<p><b>Insight:</b> Weak positive correlation indicates that revenue is driven more by unit price than sales volume.</p>
 
-* Electronics dominates sales, contributing the majority of revenue.
+<h4> Inventory Insights</h3>
+<p>Inventory and reorder levels are tracked for all products.</p>
+<p><b>Enables:</b></p>
+<ul>
+  <li>Stock optimization</li>
+  <li>Reorder alerts</li>
+  <li>Demand forecasting</li>
+</ul>
 
-<ins> Correlation Analysis </ins>
-  
-* Correlation (Quantity Sold vs Sales Amount): 0.25
-
-* Weak positive correlation indicates:
-Revenue is driven more by unit price than sales volume
-
-<ins> Inventory Insights </ins>
-* Inventory and reorder levels are tracked for all products enables:
-* Stock optimization
-* Reorder alerts
-* Demand forecasting
-
-<ins> Summary </ins>
-* No data quality issues (clean dataset)
-* Balanced performance across channels and regions
-* Electronics is the primary revenue driver
-* Corporate customers contribute the most transactions
-* Sales are influenced more by pricing than volume
+<h4> Summary</h3>
+<ul>
+  <li>No data quality issues (clean dataset)</li>
+  <li>Balanced performance across channels and regions</li>
+  <li>Electronics is the primary revenue driver</li>
+  <li>Corporate customers contribute the most transactions</li>
+  <li>Sales are influenced more by pricing than volume</li>
+</ul>
   
 ## Database & SQL Analysis
 This project utilizes MySQL to store, manage, and analyze retail transaction data. A structured database is designed to enable efficient querying and generation of key business metrics (KPIs).
