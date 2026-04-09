@@ -52,11 +52,23 @@ Data Sources (POS Systems + Online Platforms)
 ```
 
 <b> Explanation: </b>
-* Data is collected from multiple sales channels
-* Python is used for cleaning and analysis
-* MySQL stores structured data for efficient querying
-* Power BI connects to the database for visualization
-* Final dashboards provide actionable business insights
+* Data is collected from multiple sales channels.
+* Python is used for cleaning and analysis.
+* MySQL stores structured data for efficient querying.
+* Power BI connects to the database for visualization.
+* Final dashboards provide actionable business insights.
+
+## 4. Tools & Technologies
+<b> Python </b>
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Libraries: Pandas, NumPy, Matplotlib, Seaborn
+<b> MySQL </b>
+* Database design and management
+* Structured querying of retail data
+<b> Power BI </b>
+* Dashboard creation and visualization
+* Business intelligence reporting
 
 ## Exploratory Data Analysis (EDA)
 
